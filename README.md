@@ -28,6 +28,7 @@
 
 - [オースティン・オスマン・スペア『快楽の書』の翻訳＋注釈Zine──ZOS/KIAと魔術の原点](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md)
 - [オースティン・オスマン・スペアの『ゾスの呪詛――偽善者たちへの説教』翻訳Zine](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
+- [The Focus of Life（生命の焦点） - Austin Osman Spare 日本語訳プロジェクト（製作中）](https://github.com/ravensgate-tux/focus-of-life/blob/main/README.md)
 
 2. **グラント・モリスン関連**<br>
 

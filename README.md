@@ -15,13 +15,6 @@
 
 ---
 
-## 🧙‍♂️ 編集・注釈 by *Le Sorcier Inconnu*（知られざる呪術師）
-
-> 忘れられたもの、無視されたもの、まだ名前のないものへ  
-> 書かれざる言葉に、注釈という魔術を与える者
-
----
-
 ## 🔗 関連リポジトリ
 
 1. **🎨オースティン・オスマン・スペア関連**<br>
@@ -40,9 +33,10 @@
 - [フィル・ハイン著『現代シャーマニズムの技法 第1巻』への注釈Zine](https://github.com/ravensgate-tux/hine_modern_shamanism/blob/main/README.md)
 - [『喚起魔術の技法──フィル・ハインによる魔術実践と存在論の試み』の翻訳＋注釈Zine](https://github.com/ravensgate-tux/hine_evocation/blob/main/README.md)
 
----
+## 🧙‍♂️ 編集・注釈 by *Le Sorcier Inconnu*（知られざる呪術師）
 
-この書架は随時更新され、断片が繋がりながら新しい地図を描き出すでしょう。
+> 忘れられたもの、無視されたもの、まだ名前のないものへ  
+> 書かれざる言葉に、注釈という魔術を与える者
 
 ---
 

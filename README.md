@@ -5,7 +5,7 @@
 
 ---
 
-## 🗂 目録一覧（随時追加）
+## 🗂 目録一覧（下記はテンプレート）
 
 - 🕯️ [アラン・ムーア：魔術についての発言（抜粋訳）](alan_moore_magick_quotes.md)
 - 🔥 [Austin Osman Spare『Earth Inferno』よりZOD-KIAの初出に関する注記](earth_inferno_zodkia.md)

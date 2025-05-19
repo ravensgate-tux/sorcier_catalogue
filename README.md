@@ -8,10 +8,6 @@
 ## 🗂 目録一覧（下記はテンプレート）
 
 - 🕯️ [アラン・ムーア：魔術についての発言（抜粋訳）](alan_moore_magick_quotes.md)
-- 🔥 [Austin Osman Spare『Earth Inferno』よりZOD-KIAの初出に関する注記](earth_inferno_zodkia.md)
-- 🧵 [スラヴォイ・ジジェクによる幻想の構造（魔術的読解）](zizek_fantasy_structure.md)
-- 🦠 [ハクスリー『知覚の扉』メスカリン体験とゾスキアとの関係](huxley_doors_mescaline.md)
-- 🦑 [クトゥルフ神話とチャネリングの交差点にある魔術](cthulhu_channeling.md)
 
 ---
 

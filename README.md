@@ -19,7 +19,7 @@
 - 🎨 [オースティン・オスマン・スペアの『快楽の書』の翻訳＋注釈Zine──ZOS/KIAと魔術の原点](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md)
 - 🎨 [オースティン・オスマン・スペアの『ゾスの呪詛――偽善者たちへの説教』翻訳Zine](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
 - 🎨 [オースティン・オスマン・スペアの『半獣神たちの書』翻訳Zine](https://github.com/ravensgate-tux/book_satyrs/blob/main/README.md)
-- 🚧 [オースティン・オスマン・スペアの『地上の地獄』翻訳Zine（最終レビュー中）](https://github.com/ravensgate-tux/earth_inferno/blob/main/README.md)  
+- 🚧 [オースティン・オスマン・スペアの『地上の地獄』翻訳Zine（**最終レビュー中**🚧読めます）](https://github.com/ravensgate-tux/earth_inferno/blob/main/README.md)  
 - 🚧 [オースティン・オスマン・スペアの『生活の焦点』翻訳Zine（**製作中**）](https://github.com/ravensgate-tux/focus-of-life/blob/main/README.md_404)
 
 2. **🕶 グラント・モリスン関連**<br>

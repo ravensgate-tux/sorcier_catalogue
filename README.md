@@ -7,8 +7,8 @@
 
 ## 🗂 目録一覧（下記はテンプレート）
 
-- 🕯️ [アラン・ムーア：ケイオスマジックについての発言（**製作中**）](xxx.md)
-- 🕯️ [コードン・ホワイト：アラン・ムーアへ反論（**製作中**）](yyy.md)
+- 🚧 [アラン・ムーア：ケイオスマジックについての発言（**製作中🚧**）](xxx.md)
+- 🚧 [コードン・ホワイト：アラン・ムーアへ反論（**製作中🚧**）](yyy.md)
 
 ---
 
@@ -20,7 +20,7 @@
 - 🎨 [オースティン・オスマン・スペアの『ゾスの呪詛――偽善者たちへの説教』翻訳Zine](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
 - 🎨 [オースティン・オスマン・スペアの『半獣神たちの書』翻訳Zine](https://github.com/ravensgate-tux/book_satyrs/blob/main/README.md)
 - 🎨 [オースティン・オスマン・スペアの『地上の地獄』翻訳Zine）](https://github.com/ravensgate-tux/earth_inferno/blob/main/README.md)  
-- 🚧 [オースティン・オスマン・スペアの『生活の焦点』翻訳Zine（**製作中**）](https://github.com/ravensgate-tux/focus-of-life/blob/main/README.md_404)
+- 🚧 [オースティン・オスマン・スペアの『生活の焦点』翻訳Zine（**製作中🚧**）](https://github.com/ravensgate-tux/focus-of-life/blob/main/README.md_404)
 
 2. **🕶 グラント・モリスン関連**<br>
 

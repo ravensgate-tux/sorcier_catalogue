@@ -8,8 +8,8 @@
 ## 🗂 注目、最新、更新版などの記事
 
 - 🆕  [アラン・ムーア：ケイオスマジックは「ファーストフード魔術」発言（該当ページ抜粋／英語）](Alanmoore_Chaos_Magic_2025.pdf)
-- 🆕 [コードン・ホワイト：アラン・ムーアへ反論（YouTube:英語/日本語設定可能）](https://www.youtube.com/watch?v=KyduQCcRbFs)
-- 🆕 [ピータ・キャロル：アラン・ムーアへ反論（Specularium:英語/Google翻訳可能）](https://www.specularium.org/blog/mayblog-2025)
+- 🆕 [コードン・ホワイト：アラン・ムーアに反論（YouTube:英語/日本語設定可能）](https://www.youtube.com/watch?v=KyduQCcRbFs)
+- 🆕 [ピータ・キャロル：アラン・ムーアに反論（Specularium:英語/Google翻訳可能）](https://www.specularium.org/blog/mayblog-2025)
 - 💻 [Witchcraft API v0.1](https://github.com/ravensgate-tux/witchcraft_api_v01/blob/main/README.md)
 
 ---

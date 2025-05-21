@@ -10,8 +10,7 @@
 - 🚧 [アラン・ムーア：ケイオスマジックについての発言（**製作中🚧**）](xxx.md)
 - 🚧 [コードン・ホワイト：アラン・ムーアへ反論（**製作中🚧**）](yyy.md)
 - [🧠 Witchcraft API v0.1](https://github.com/ravensgate-tux/witchcraft_api_v01/blob/main/README.md)
-
-
+- [🃏 8大祝祭とDeviant Moon Tarotの対応表](https://github.com/ravensgate-tux/document_wheel_of_the_year/blob/main/README.md)
 
 
 
@@ -60,6 +59,7 @@
 
 ## 🧙 内的ワーク
 
+- [🃏 自己鍛錬のための The Power of One](https://github.com/ravensgate-tux/work_power_of_one/blob/main/README.md)
 - [🐘 ガネーシャ・デーモン・モーフィング　（Fil Hine方式）](https://github.com/ravensgate-tux/hine_ganesha_morphing/blob/main/README.md)
 - [🌓 ヘカテの三重なる道（Ravensgate流 再構成儀式）](https://github.com/ravensgate-tux/hekate_ascending_flame/blob/main/README.md)
 - [🌓 ヘカテの内なる炎](https://github.com/ravensgate-tux/work_frame_threshold/blob/main/README.md)
@@ -69,8 +69,6 @@
 - [🌓 ヘカテとアゾート瞑想の月の儀式](https://github.com/ravensgate-tux/work_the_moon_hekate/blob/main/README.md)
 - [🌓 過去を手放し次の段階へと移行する儀式](https://github.com/ravensgate-tux/work_key_transition/blob/main/README.md)
 - [🌓「世界」カードを使った睡眠前の内的ワーク](https://github.com/ravensgate-tux/work_sleep_tarot/blob/main/README.md)
-- [🃏 自己鍛錬のための The Power of One](https://github.com/ravensgate-tux/work_power_of_one/blob/main/README.md)
-
 
 
 ---

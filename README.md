@@ -53,7 +53,7 @@
 - [🐘 ガネーシャ・デーモン・モーフィング　（Fil Hine方式）](https://github.com/ravensgate-tux/hine_ganesha_morphing/blob/main/README.md)
 - [🌓 ヘカテの三重なる道（Ravensgate流 再構成儀式）](https://github.com/ravensgate-tux/hekate_ascending_flame/blob/main/README.md)
 - [🌓 ヘカテの内なる炎](https://github.com/ravensgate-tux/work_frame_threshold/blob/main/README.md)
-
+- [🔬 漢字シジル・プロトコル v0.1（試作版）](https://github.com/ravensgate-tux/kanji-sigil/blob/main/README.md)
 
 
 

@@ -50,7 +50,7 @@
 - [🌓 神殿でのタロット聖別儀式](https://github.com/ravensgate-tux/hekate-tarot-ritual/blob/main/README.md)
 - [🌓 旅の安全を祈る儀式](https://github.com/ravensgate-tux/travel-protection-ritual/blob/main/README.md)
 - [🌓 ネガティブな影響を追い払う儀式](https://github.com/ravensgate-tux/banishing-negative-ritual/blob/main/README.md)
-
+- [🌓 本棚神殿での金運上昇の儀式](https://github.com/ravensgate-tux/golden-prosperity-ritual/blob/main/README.md)
   
 
 

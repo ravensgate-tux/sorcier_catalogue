@@ -50,7 +50,7 @@
 - [🌓 ヘカテ神殿と自宅を保護するための儀式](https://github.com/ravensgate-tux/hekate-protection-ritual/blob/main/README.md)
 - [🌓 神殿でのタロット聖別儀式](https://github.com/ravensgate-tux/hekate-tarot-ritual/blob/main/README.md)
 - [🌓 旅の安全を祈る儀式](https://github.com/ravensgate-tux/travel-protection-ritual/blob/main/README.md)
-
+- [🌓 ネガティブな影響を追い払う儀式](https://github.com/ravensgate-tux/banishing-negative-ritual/blob/main/README.md)
 
   
 
@@ -66,7 +66,8 @@
 - [🔬 漢字シジル・プロトコル v0.1（試作版）](https://github.com/ravensgate-tux/kanji-sigil/blob/main/README.md)
 - [🌓 カードを使った肉体と精神の浄化と調和](https://github.com/ravensgate-tux/work_mental_cleansing/blob/main/README.md)
 - [🌓 過去の判断を解放するパスワーキング](https://github.com/ravensgate-tux/work_justice_passworking/blob/main/README.md)
-
+- [🌓 アゾートとつながるための個人的トレーニング儀式](https://github.com/ravensgate-tux/work_the_moon_hekate/blob/main/README.md)
+- 
 
 
 

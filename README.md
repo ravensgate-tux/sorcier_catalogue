@@ -51,7 +51,9 @@
 - [🌓 旅の安全を祈る儀式](https://github.com/ravensgate-tux/travel-protection-ritual/blob/main/README.md)
 - [🌓 ネガティブな影響を追い払う儀式](https://github.com/ravensgate-tux/banishing-negative-ritual/blob/main/README.md)
 - [🌓 本棚神殿での金運上昇の儀式](https://github.com/ravensgate-tux/golden-prosperity-ritual/blob/main/README.md)
-- [🌓 四元素の夜のワーク](https://github.com/ravensgate-tux/work_elemental_camp_work/blob/master/README.md)  
+- [🌓 四元素の夜のワーク](https://github.com/ravensgate-tux/work_elemental_camp_work/blob/master/README.md)
+- [🌓 Hekateチャントガイドブック](https://github.com/ravensgate-tux/hekate-chants/blob/main/README.md)
+
 
 
 ---

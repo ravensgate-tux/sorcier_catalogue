@@ -37,7 +37,7 @@
 ## 🧙 呪術プロトコル
 
 - [🔥ベルテイン／5月の祭の祝祭プロトコル](https://github.com/ravensgate-tux/beltaine_ritual/blob/main/README.md)
-
+- [🐘 ガネーシャへの感謝の儀式（Ravensgate方式）](https://github.com/ravensgate-tux/ganesha_gratitude/blob/main/README.md)
 
 ## 🧙 内的ワーク
 

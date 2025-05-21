@@ -9,12 +9,7 @@
 
 - 🚧 [アラン・ムーア：ケイオスマジックについての発言（**製作中🚧**）](xxx.md)
 - 🚧 [コードン・ホワイト：アラン・ムーアへ反論（**製作中🚧**）](yyy.md)
-- [🧠 Witchcraft API v0.1](https://github.com/ravensgate-tux/witchcraft_api_v01/blob/main/README.md)
-- [🃏 8大祝祭とDeviant Moon Tarotの対応表](https://github.com/ravensgate-tux/document_wheel_of_the_year/blob/main/README.md)
-
-
-
-
+- [💻 Witchcraft API v0.1](https://github.com/ravensgate-tux/witchcraft_api_v01/blob/main/README.md)
 
 ---
 
@@ -59,7 +54,6 @@
 - [🔥 カタツムリの祝祭（4月22日・アースデイ）](https://github.com/ravensgate-tux/snailmas/blob/main/README.md)
 - [🔬 本棚神殿の作り方](https://github.com/ravensgate-tux/bookshelf-temple/blob/main/README.md)
 
-
 ---
 
 
@@ -78,6 +72,7 @@
 - [🌓 内面の自己と向き合う（内なる十字路）自己鍛錬](https://github.com/ravensgate-tux/work_inner_circle/blob/main/README.md)
 - [🃏 自己鍛錬のための The Power of One](https://github.com/ravensgate-tux/work_power_of_one/blob/main/README.md)
 - [🃏 Ganesha Kumano Ritual（個人的な儀式：英語）](https://github.com/ravensgate-tux/ganesha_kumano_ritual/blob/main/README.md)
+- [🃏 8大祝祭とDeviant Moon Tarotの対応表](https://github.com/ravensgate-tux/document_wheel_of_the_year/blob/main/README.md)
 - [🔬 漢字シジル・プロトコル v0.1（試作版）](https://github.com/ravensgate-tux/kanji-sigil/blob/main/README.md)
 
 

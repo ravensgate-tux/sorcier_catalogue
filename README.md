@@ -49,6 +49,10 @@
 - [🌓 ヘカテ女神への日拝](https://github.com/ravensgate-tux/hekate-daily-ritual/blob/main/README.md)
 - [🌓 ヘカテ神殿と自宅を保護するための儀式](https://github.com/ravensgate-tux/hekate-protection-ritual/blob/main/README.md)
 - [🌓 神殿でのタロット聖別儀式](https://github.com/ravensgate-tux/hekate-tarot-ritual/blob/main/README.md)
+- [🌓 過去の判断を解放するパスワーキング](https://github.com/ravensgate-tux/work_justice_passworking/blob/main/README.md)
+
+
+
 - 
 
 

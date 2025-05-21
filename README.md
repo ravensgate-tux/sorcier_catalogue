@@ -5,10 +5,17 @@
 
 ---
 
-## 🗂 注目の記事
+## 🗂 注目、最新、更新版などの記事
 
 - 🚧 [アラン・ムーア：ケイオスマジックについての発言（**製作中🚧**）](xxx.md)
 - 🚧 [コードン・ホワイト：アラン・ムーアへ反論（**製作中🚧**）](yyy.md)
+- [🧠 Witchcraft API v0.1](https://github.com/ravensgate-tux/witchcraft_api_v01/blob/main/README.md)
+
+
+
+
+
+
 
 ---
 

@@ -74,8 +74,8 @@
 - [🌓 ヘカテとアゾート瞑想の月の儀式](https://github.com/ravensgate-tux/work_the_moon_hekate/blob/main/README.md)
 - [🌓 過去を手放し次の段階へと移行する儀式](https://github.com/ravensgate-tux/work_key_transition/blob/main/README.md)
 - [🌓「世界」カードを使った睡眠前の内的ワーク](https://github.com/ravensgate-tux/work_sleep_tarot/blob/main/README.md)
+- [🌓 内面の自己と向き合う（内なる十字路）自己鍛錬](https://github.com/ravensgate-tux/work_inner_circle/blob/main/README.md)
 - [🔬 漢字シジル・プロトコル v0.1（試作版）](https://github.com/ravensgate-tux/kanji-sigil/blob/main/README.md)
-
 
 
 ---

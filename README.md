@@ -43,7 +43,8 @@
 ## 🧙 呪術プロトコル
 
 - [🔥 ベルテイン／5月の祭の祝祭プロトコル](https://github.com/ravensgate-tux/beltaine_ritual/blob/main/README.md)
-- [🐘 ガネーシャへの感謝の儀式（Ravensgate方式）](https://github.com/ravensgate-tux/ganesha_gratitude/blob/main/README.md)
+- [🐘 ガネーシャへの感謝の儀式](https://github.com/ravensgate-tux/ganesha_gratitude/blob/main/README.md)
+- [🐘 ガネーシャへの体重減少（ダイエット）の儀式](https://github.com/ravensgate-tux/ganesha_diet/blob/main/README.md)
 - [🔬 本棚神殿の作り方](https://github.com/ravensgate-tux/bookshelf-temple/blob/main/README.md)
 - [🌓 ヘカテ女神への日拝](https://github.com/ravensgate-tux/hekate-daily-ritual/blob/main/README.md)
 - [🌓 ヘカテ神殿と自宅を保護するための儀式](https://github.com/ravensgate-tux/hekate-protection-ritual/blob/main/README.md)

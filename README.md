@@ -5,13 +5,12 @@
 
 ---
 
-## 🗂 注目、最新、更新版などの記事
+## 🗂 注目の最新記事など
 
 - 🆕  [アラン・ムーア：ケイオスマジックは「ファーストフード魔術」発言（該当ページ抜粋／英語）](Alanmoore_Chaos_Magic_2025.pdf)
 - 🆕 [コードン・ホワイト：アラン・ムーアに反論（YouTube:英語/日本語設定可能）](https://www.youtube.com/watch?v=KyduQCcRbFs)
 - 🆕 [ピータ・キャロル：アラン・ムーアに反論（Specularium:英語/Google翻訳可能）](https://www.specularium.org/blog/mayblog-2025)
-- 💻 [Witchcraft API v0.1](https://github.com/ravensgate-tux/witchcraft_api_v01/blob/main/README.md)
-
+  
 ---
 
 ## 🔗 翻訳＋注釈Zineプロジェクト
@@ -74,7 +73,7 @@
 - [🃏 Ganesha Kumano Ritual（個人的な儀式：英語）](https://github.com/ravensgate-tux/ganesha_kumano_ritual/blob/main/README.md)
 - [🃏 8大祝祭とDeviant Moon Tarotの対応表](https://github.com/ravensgate-tux/document_wheel_of_the_year/blob/main/README.md)
 - [🔬 漢字シジル・プロトコル v0.1（試作版）](https://github.com/ravensgate-tux/kanji-sigil/blob/main/README.md)
-
+- 💻 [Witchcraft API v0.1](https://github.com/ravensgate-tux/witchcraft_api_v01/blob/main/README.md)
 
 ---
 

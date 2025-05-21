@@ -46,7 +46,6 @@
 - [🐘 ガネーシャ神殿での日拝](https://github.com/ravensgate-tux/ganesha_morning/blob/main/README.md)
 - [🐘 ガネーシャへの感謝の儀式](https://github.com/ravensgate-tux/ganesha_gratitude/blob/main/README.md)
 - [🐘 ガネーシャへの体重減少（ダイエット）の儀式](https://github.com/ravensgate-tux/ganesha_diet/blob/main/README.md)
-- [🔬 本棚神殿の作り方](https://github.com/ravensgate-tux/bookshelf-temple/blob/main/README.md)
 - [🌓 ヘカテ女神への日拝](https://github.com/ravensgate-tux/hekate-daily-ritual/blob/main/README.md)
 - [🌓 ヘカテ神殿と自宅を保護するための儀式](https://github.com/ravensgate-tux/hekate-protection-ritual/blob/main/README.md)
 - [🌓 神殿でのタロット聖別儀式](https://github.com/ravensgate-tux/hekate-tarot-ritual/blob/main/README.md)
@@ -55,7 +54,7 @@
 - [🌓 本棚神殿での金運上昇の儀式](https://github.com/ravensgate-tux/golden-prosperity-ritual/blob/main/README.md)
 - [🌓 四元素の夜のワーク](https://github.com/ravensgate-tux/work_elemental_camp_work/blob/master/README.md)
 - [🌓 Hekateチャントガイドブック](https://github.com/ravensgate-tux/hekate-chants/blob/main/README.md)
-
+- [🔬 本棚神殿の作り方](https://github.com/ravensgate-tux/bookshelf-temple/blob/main/README.md)
 
 
 ---
@@ -67,12 +66,14 @@
 - [🐘 ガネーシャ・デーモン・モーフィング　（Fil Hine方式）](https://github.com/ravensgate-tux/hine_ganesha_morphing/blob/main/README.md)
 - [🌓 ヘカテの三重なる道（Ravensgate流 再構成儀式）](https://github.com/ravensgate-tux/hekate_ascending_flame/blob/main/README.md)
 - [🌓 ヘカテの内なる炎](https://github.com/ravensgate-tux/work_frame_threshold/blob/main/README.md)
-- [🔬 漢字シジル・プロトコル v0.1（試作版）](https://github.com/ravensgate-tux/kanji-sigil/blob/main/README.md)
 - [🌓 カードを使った肉体と精神の浄化と調和](https://github.com/ravensgate-tux/work_mental_cleansing/blob/main/README.md)
 - [🌓 過去の判断を解放するパスワーキング](https://github.com/ravensgate-tux/work_justice_passworking/blob/main/README.md)
+- [🌓 ペンタクルの女王と癒しのパスワーキング](https://github.com/ravensgate-tux/work_healing_queen_of_pentacles/blob/main/README.md)
 - [🌓 ヘカテとアゾート瞑想の月の儀式](https://github.com/ravensgate-tux/work_the_moon_hekate/blob/main/README.md)
 - [🌓 過去を手放し次の段階へと移行する儀式](https://github.com/ravensgate-tux/work_key_transition/blob/main/README.md)
 - [🌓「世界」カードを使った睡眠前の内的ワーク](https://github.com/ravensgate-tux/work_sleep_tarot/blob/main/README.md)
+- [🔬 漢字シジル・プロトコル v0.1（試作版）](https://github.com/ravensgate-tux/kanji-sigil/blob/main/README.md)
+
 
 
 ---

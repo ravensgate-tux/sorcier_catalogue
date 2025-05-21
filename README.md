@@ -66,8 +66,9 @@
 - [🔬 漢字シジル・プロトコル v0.1（試作版）](https://github.com/ravensgate-tux/kanji-sigil/blob/main/README.md)
 - [🌓 カードを使った肉体と精神の浄化と調和](https://github.com/ravensgate-tux/work_mental_cleansing/blob/main/README.md)
 - [🌓 過去の判断を解放するパスワーキング](https://github.com/ravensgate-tux/work_justice_passworking/blob/main/README.md)
-- [🌓 アゾートとつながるための個人的トレーニング儀式](https://github.com/ravensgate-tux/work_the_moon_hekate/blob/main/README.md)
-- 
+- [🌓 ヘカテとアゾート瞑想の月の儀式](https://github.com/ravensgate-tux/work_the_moon_hekate/blob/main/README.md)
+- [🌓 過去を手放し次の段階へと移行する儀式](https://github.com/ravensgate-tux/work_key_transition/blob/main/README.md)
+- [🌓「世界」カードを使った睡眠前の内的ワーク](https://github.com/ravensgate-tux/work_sleep_tarot/blob/main/README.md)
 
 
 

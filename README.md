@@ -23,6 +23,19 @@
 - 🎨 [オースティン・オスマン・スペアの『地上の地獄』翻訳Zine）](https://github.com/ravensgate-tux/earth_inferno/blob/main/README.md)  
 - 🚧 [オースティン・オスマン・スペアの『生活の焦点』翻訳Zine（**製作中🚧**）](https://github.com/ravensgate-tux/focus-of-life/blob/main/README.md_404)
 
+## スペアの全著作について alphabetという語の調査結果をまとめると…##
+
+- 1️⃣『半獣神たちの書』– 絵のみ（スペアの文なし）
+- 2️⃣『快楽の書』– 魔術論：alphabet (4)、sacred alphabet (2)
+- 3️⃣『地上の地獄』– 絵と詩：alphabet (0)
+- 4️⃣『生活の集中』– 詩：alphabet (1)
+- 5️⃣『ゾスの呪詛』– 自動書記による詩：Alphabetic (1)、Alphabet (1)
+
+>💡論理的な説明文があるのは2️⃣のみ。
+>⏩つまり、“聖なるアルファベット”も“欲望のアルファベット”も、スペアの文にはまったく登場しない。
+>（ただし最初に説明した sacred alphabet という形容詞＋普通名詞の表現が2回）
+>⏩たぶんアレだな、ケネス・グラントが勘違いして、スペアが腹で笑いながら否定しなかったんだな……😂
+
 2. **🕶 グラント・モリスン関連**<br>
 
 - 🕶 [グラント・モリスン著『Pop Magic』への注釈Zine](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)

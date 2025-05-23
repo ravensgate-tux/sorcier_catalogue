@@ -36,6 +36,11 @@
 >（『快楽の書』に2回出てくるsacred alphabetは形容詞＋普通名詞という一般的な表現）<br>
 >⏩たぶんアレだな、ケネス・グラントが勘違いして、スペアが腹で笑いながら否定しなかったんだな……😂<br>
 
+####[Zos Speaks!』](https://www.amazon.co.jp/dp/B0CQ9YDG9N)（ケネス・グラント）に書かれた謎の「欲望のアルファベット」構築作業
+
+
+
+
 2. **🕶 グラント・モリスン関連**<br>
 
 - 🕶 [グラント・モリスン著『Pop Magic』への注釈Zine](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)

@@ -47,7 +47,7 @@
  <img src="Zos-Kia-19541010.png" width="500">
 </div>
 <br>
-- 👉👉👉[参考文献『Zos Speaks!』(Amazon)ケネス・グラントの著作なので本調査では二次資料として扱っている](https://www.amazon.co.jp/dp/B0CQ9YDG9N)<br>
+- 👉👉👉[参考文献『Zos Speaks!』](https://www.amazon.co.jp/dp/B0CQ9YDG9N)<br>
 
 2. **🕶 グラント・モリスン関連**<br>
 

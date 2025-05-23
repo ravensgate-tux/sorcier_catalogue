@@ -30,26 +30,26 @@
 - 3️⃣『地上の地獄』– 絵と詩：alphabet (0)
 - 4️⃣『生活の集中』– 詩：alphabet (1)
 - 5️⃣『ゾスの呪詛』– 自動書記による詩：Alphabetic (1)、Alphabet (1)
-<br>
+  
 #### 🐌論理的な説明文があるのは2️⃣のみ<br>
 
 - ⏩つまり、“聖なるアルファベット”も“欲望のアルファベット”も、スペアの文にはまったく登場しない<br>
 - 『快楽の書』に2回出てくるsacred alphabetは形容詞＋普通名詞という一般的な表現）<br>
 - ⏩たぶんアレだな、ケネス・グラントが勘違いして、スペアが腹で笑いながら否定しなかったんだな……😂<br>
-<br>
+  
 #### [『Zos Speaks!』](https://www.amazon.co.jp/dp/B0CQ9YDG9N)（ケネス・グラント）に書かれた謎の「欲望のアルファベット」構築作業
 
 - なお[『Zos Speaks!』](https://www.amazon.co.jp/dp/B0CQ9YDG9N)には、1954年9月14日頃からグラントの依頼でスペアが“欲望のアルファベット”を完成させていく過程が記録されている。<br>
 - グラントからは「Zos＝手」「Kia＝目」と書かれた手書きメモとシジルが送られ(1954年10月10日)、スペアは「自分の書いたものではないと思う」と述べるが、その後Zos-Kiaの概念は変質。<br>
+- 最終的にグラントはこれを「欲望のアルファベット」と呼ぶ（1954年11月5日）ようになる。<br>
+- 👉👉👉[『Zos Speaks!』(Amazon)](https://www.amazon.co.jp/dp/B0CQ9YDG9N)<br>
 - ケネス・グラントからスペアに送られてきた手書きのメモ<br>
+
 <div align="left">
  <img src="Zos-Kia-19541010.png" width="500">
 </div>
-- 最終的にグラントはこれを「欲望のアルファベット」と呼ぶ（1954年11月5日）ようになる。<br>
-- 👉👉👉[『Zos Speaks!』(Amazon)](https://www.amazon.co.jp/dp/B0CQ9YDG9N)<br>
 <br>
-<br>
-<br>
+
 2. **🕶 グラント・モリスン関連**<br>
 
 - 🕶 [グラント・モリスン著『Pop Magic』への注釈Zine](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)

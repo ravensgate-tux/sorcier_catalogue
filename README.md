@@ -42,13 +42,13 @@
 - なお[『Zos Speaks!』](https://www.amazon.co.jp/dp/B0CQ9YDG9N)には、1954年9月14日頃からグラントの依頼でスペアが“欲望のアルファベット”を完成させていく過程が記録されている。<br>
 - グラントからは「Zos＝手」「Kia＝目」と書かれた手書きメモとシジルが送られ(1954年10月10日)、スペアは「自分の書いたものではないと思う」と述べるが、その後Zos-Kiaの概念は変質。<br>
 - 最終的にグラントはこれを「欲望のアルファベット」と呼ぶ（1954年11月5日）ようになる。<br>
-- 👉👉👉[『Zos Speaks!』(Amazon)](https://www.amazon.co.jp/dp/B0CQ9YDG9N)<br>
 - ケネス・グラントからスペアに送られてきた手書きのメモ<br>
 
 <div align="left">
  <img src="Zos-Kia-19541010.png" width="500">
 </div>
 <br>
+- 👉👉👉[参考文献『Zos Speaks!』(Amazon)ケネス・グラントの著作なので本調査では二次資料として扱っている](https://www.amazon.co.jp/dp/B0CQ9YDG9N)<br>
 
 2. **🕶 グラント・モリスン関連**<br>
 

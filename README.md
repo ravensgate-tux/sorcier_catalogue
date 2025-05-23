@@ -48,7 +48,7 @@
 </div>
 <br>
 
-[『Zos Speaks!](https://www.amazon.co.jp/dp/B0CQ9YDG9N)
+- [参考文献『Zos Speaks!』(Amazon)](https://www.amazon.co.jp/dp/B0CQ9YDG9N)
 
 <br>
 

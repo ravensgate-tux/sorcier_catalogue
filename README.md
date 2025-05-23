@@ -49,6 +49,7 @@
 </div>
 <br>
 
+- グラントは ZOS KIA CULTUS (ZOS KIA 崇拝とか教義とか’カルト’などの意味) という言葉を使い始める（1954年12月11日）<br>
 - [参考文献『Zos Speaks!』(Amazon)](https://www.amazon.co.jp/dp/B0CQ9YDG9N)
 
 <br>

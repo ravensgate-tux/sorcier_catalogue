@@ -43,7 +43,7 @@
 - グラントからは「Zos＝手」「Kia＝目」と書かれた手書きメモとシジルが送られ(1954年10月10日)、スペアは「自分の書いたものではないと思う」と述べるが、その後Zos-Kiaの概念は変質。<br>
 - ケネス・グラントからスペアに送られてきた手書きのメモ<br>
 <div align="center">
- <img src="zos-kia-19541010.png" width="500">
+ <img src="Zos-Kia-19541010.png" width="300">
 </div>
 - 最終的にグラントはこれを「欲望のアルファベット」と呼ぶ（1954年11月5日）ようになる。<br>
 - 👉👉👉[『Zos Speaks!』(Amazon)](https://www.amazon.co.jp/dp/B0CQ9YDG9N)<br>

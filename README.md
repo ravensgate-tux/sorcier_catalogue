@@ -17,6 +17,11 @@
 
 1. **🎨 オースティン・オスマン・スペア関連**<br>
 
+<div align="left">
+ <img src="AOS-1.png" width="300">
+</div>
+<br>
+
 - 🎨 [オースティン・オスマン・スペアの『快楽の書』の翻訳＋注釈Zine──ZOS/KIAと魔術の原点](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md)
 - 🎨 [オースティン・オスマン・スペアの『ゾスの呪詛――偽善者たちへの説教』翻訳Zine](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
 - 🎨 [オースティン・オスマン・スペアの『半獣神たちの書』翻訳Zine](https://github.com/ravensgate-tux/book_satyrs/blob/main/README.md)

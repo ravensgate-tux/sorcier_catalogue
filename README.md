@@ -15,7 +15,7 @@
 
 ## 🔗 翻訳＋注釈Zineプロジェクト
 
-1. **🎨 オースティン・オスマン・スペア関連**<br>
+#### 1. **🎨 オースティン・オスマン・スペア関連**<br>
 
 <div align="center">
  <img src="AOS-1.png" width="300">
@@ -59,7 +59,7 @@
 
 <br>
 
-2. **🕶 グラント・モリスン関連**<br>
+#### 2. **🕶 グラント・モリスン関連**<br>
 
 <div align="center">
  <img src="Grant_Morrison.png" width="500">
@@ -68,8 +68,9 @@
 
 - 🕶 [グラント・モリスン著『Pop Magic』への注釈Zine](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)
 - 🕶 [グラント・モリスン『BATMAN R.I.P.』から読み解く「深淵」と「降下」Zine](https://github.com/ravensgate-tux/batman_rip_zine/blob/main/README.md)
+<br>
 
-3. **🦑 フィル・ハイン関連**<br>
+#### 3. **🦑 フィル・ハイン関連**<br>
 
 <div align="center">
  <img src="Phil_Hine.jpg" width="300">

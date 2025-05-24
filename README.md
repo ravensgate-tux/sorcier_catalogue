@@ -81,6 +81,16 @@
 - [🌓 Hekateチャントガイドブック](https://github.com/ravensgate-tux/hekate-chants/blob/main/README.md)
 - [🃏 キャンプ地での地霊への祈り（TAZ）](https://github.com/ravensgate-tux/prayer_to_campground/blob/main/README.md)
 - [🃏 明日のプレゼンテーションに効く儀式](https://github.com/ravensgate-tux/presentation_spell/blob/main/README.md)
+
+<div align="left">
+ <img src="wheel-of-the-year.jpeg" width="500">
+</div>
+<br>
+
+画像出典：Julian Vayne & Steve Dee, *Chaos Craft*（2018）より引用。図版は教育的・研究目的での紹介のために使用。
+Image credit: Julian Vayne & Steve Dee, *Chaos Craft* (2018). Used here for educational and research purposes under fair use/fair dealing.
+
+- [🔥 8大祝祭とDeviant Moon Tarotの対応表](https://github.com/ravensgate-tux/document_wheel_of_the_year/blob/main/README.md)
 - [🔥 ベルテイン／5月の祭の祝祭プロトコル](https://github.com/ravensgate-tux/beltaine_ritual/blob/main/README.md)
 - [🔥 カタツムリの祝祭（4月22日・アースデイ）](https://github.com/ravensgate-tux/snailmas/blob/main/README.md)
 - [🔬 本棚神殿の作り方](https://github.com/ravensgate-tux/bookshelf-temple/blob/main/README.md)
@@ -102,7 +112,6 @@
 - [🌓 内面の自己と向き合う（内なる十字路）自己鍛錬](https://github.com/ravensgate-tux/work_inner_circle/blob/main/README.md)
 - [🃏 自己鍛錬のための The Power of One](https://github.com/ravensgate-tux/work_power_of_one/blob/main/README.md)
 - [🃏 Ganesha Kumano Ritual（個人的な儀式：英語）](https://github.com/ravensgate-tux/ganesha_kumano_ritual/blob/main/README.md)
-- [🃏 8大祝祭とDeviant Moon Tarotの対応表](https://github.com/ravensgate-tux/document_wheel_of_the_year/blob/main/README.md)
 - [🔬 漢字シジル・プロトコル v0.1（試作版）](https://github.com/ravensgate-tux/kanji-sigil/blob/main/README.md)
 - 💻 [Witchcraft API v0.1](https://github.com/ravensgate-tux/witchcraft_api_v01/blob/main/README.md)
 

@@ -62,7 +62,7 @@
 2. **🕶 グラント・モリスン関連**<br>
 
 <div align="center">
- <img src="Grant_Morrison.png" width="300">
+ <img src="Grant_Morrison.png" width="500">
 </div>
 <br>
 

@@ -17,7 +17,7 @@
 
 1. **🎨 オースティン・オスマン・スペア関連**<br>
 
-<div align="left">
+<div align="center">
  <img src="AOS-1.png" width="300">
 </div>
 <br>

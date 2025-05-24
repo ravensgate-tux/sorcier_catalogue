@@ -61,6 +61,11 @@
 
 2. **🕶 グラント・モリスン関連**<br>
 
+<div align="center">
+ <img src="Grant_Morrison.png" width="300">
+</div>
+<br>
+
 - 🕶 [グラント・モリスン著『Pop Magic』への注釈Zine](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)
 - 🕶 [グラント・モリスン『BATMAN R.I.P.』から読み解く「深淵」と「降下」Zine](https://github.com/ravensgate-tux/batman_rip_zine/blob/main/README.md)
 

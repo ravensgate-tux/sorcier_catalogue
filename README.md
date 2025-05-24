@@ -103,7 +103,7 @@
 - [🃏 キャンプ地での地霊への祈り（TAZ）](https://github.com/ravensgate-tux/prayer_to_campground/blob/main/README.md)
 - [🃏 明日のプレゼンテーションに効く儀式](https://github.com/ravensgate-tux/presentation_spell/blob/main/README.md)
 
-<div align="left">
+<div align="venter">
  <img src="wheel-of-the-year.jpeg" width="500">
 </div>
 <br>

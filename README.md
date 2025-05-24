@@ -68,8 +68,8 @@
 
 ## 🧙 呪術プロトコル
 
-<div align="left">
- <img src="Ganesha-20250524.jpg" width="500">
+<div align="center">
+ <img src="Ganesha-20250524.jpg" width="400">
 </div>
 <br>
 

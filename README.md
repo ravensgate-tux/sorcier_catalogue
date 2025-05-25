@@ -217,8 +217,10 @@
 </div>
 <br>
 
+<div align="center">
 画像出典：Julian Vayne & Steve Dee, *Chaos Craft*（2018）より引用。図版は教育的・研究目的での紹介のために使用。<br>
 Image credit: Julian Vayne & Steve Dee, *Chaos Craft* (2018). Used here for educational and research purposes under fair use/fair dealing.
+<br>
 
 - [🔥 8大祝祭とDeviant Moon Tarotの対応表](https://github.com/ravensgate-tux/document_wheel_of_the_year/blob/main/README.md)
 - [🔥 ベルテイン／5月の祭の祝祭プロトコル](https://github.com/ravensgate-tux/beltaine_ritual/blob/main/README.md)

@@ -61,7 +61,12 @@
 ---
 
 ### 🧭 Gordon White（ゴードン・ホワイト）  
-![ゴードン・ホワイト](https://runesoup.com/wp-content/uploads/2016/09/Photo-of-Gordon.jpg)  
+
+<div align="left">
+ <img src="Gordon_White.png" width="200">
+</div>
+<br>
+
 **職業：占星術師、民俗学研究家、実践魔術家**  
 **魔術的立場：アニミズムとカオス魔術の融合／非西洋的霊性との調和**
 

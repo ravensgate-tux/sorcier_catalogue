@@ -17,7 +17,7 @@
 ### 🧙 Alan Moore（アラン・ムーア）  
 
 <div align="left">
- <img src="alan_moore.png" width="500">
+ <img src="alan_moore.png" width="200">
 </div>
 <br>
 

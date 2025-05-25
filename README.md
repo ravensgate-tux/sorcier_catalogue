@@ -92,7 +92,12 @@
 
 ### Julian Vayne（ジュリアン・ヴェイン）
 
+<div align="left">
+ <img src="Julian-Vayne.jpg" width="200">
+</div>
+<br>
 
+(画像出典:Fulgur Press)
 
 **職業： 実践魔術教師、サイケデリック研究者**
 **著述家魔術的立場： 体験重視／意識拡張と健康の統合／伝統と現代の橋渡し**

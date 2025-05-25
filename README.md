@@ -93,6 +93,17 @@
 
 ### 🧙‍♂️ Julian Vayne（ジュリアン・ヴェイン）
 
+
+┌──────────────────────────────┐
+│       🌀 RAVENGATE IS A PARTICIPANT        │
+│                                        │
+│    ✔ Julian Vayne's Course              │
+│    ✔ Gordon White's Rune Soup           │
+│                                        │
+│  "実践と調和を重んじる現代魔術の実践者"    │
+└──────────────────────────────┘
+
+
 <div align="left">
  <img src="Julian-Vayne.jpg" width="200">
 </div>

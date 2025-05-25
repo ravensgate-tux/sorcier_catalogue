@@ -14,7 +14,7 @@
 
 ## 🧙‍♂️ 関係者紹介──現代魔術を語るキーパーソンたち
 
-### 🧙 Alan Moore（アラン・ムーア）  
+### 🧙 Alan Moore（アラン・ムーア　1953年11月18日 - ）  
 
 <div align="left">
  <img src="alan_moore.png" width="200">
@@ -33,7 +33,7 @@
 
 ---
 
-### 🧠 Grant Morrison（グラント・モリスン）  
+### 🧠 Grant Morrison（グラント・モリスン　1960年1月31日 - ）  
 
 <div align="left">
  <img src="grant_morrison.png" width="200">
@@ -52,7 +52,7 @@
 
 ---
 
-### 🧪 Peter J. Carroll（ピーター・キャロル）  
+### 🧪 Peter J. Carroll（ピーター・キャロル 1953年 - ）  
 ![ピーター・キャロル](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Peter_J_Carroll.jpg/330px-Peter_J_Carroll.jpg)  
 **職業：物理学者、魔術理論家**  
 **魔術的立場：可塑的信念と実用魔術の構築者**

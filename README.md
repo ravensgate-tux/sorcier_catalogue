@@ -33,7 +33,11 @@
 
 ### 🧠 Grant Morrison（グラント・モリスン）  
 
-![グラント・モリスン](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Grant_Morrison_-_Lucca_Comics_%26_Games_2018.jpg/330px-Grant_Morrison_-_Lucca_Comics_%26_Games_2018.jpg)  
+<div align="left">
+ <img src="grant_morrison" width="200">
+</div>
+<br>
+ 
 **職業：コミック作家、魔術実践者**  
 **魔術的立場：シジル魔術と神格連携／ポップカルチャーとの接合**
 

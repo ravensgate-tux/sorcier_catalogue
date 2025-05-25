@@ -33,7 +33,7 @@
 
 ---
 
-### 🧠 Grant Morrison（グラント・モリスン　1960年1月31日 - ）  
+### 🧙‍♂️ Grant Morrison（グラント・モリスン　1960年1月31日 - ）  
 
 <div align="left">
  <img src="grant_morrison.png" width="200">
@@ -52,7 +52,7 @@
 
 ---
 
-### 🧪 Peter J. Carroll（ピーター・キャロル 1953年 - ）  
+### 🧙‍♂️ Peter J. Carroll（ピーター・キャロル 1953年 - ）  
 
 <div align="left">
  <img src="Peter_J_Carroll.png" width="200">
@@ -71,7 +71,7 @@
 
 ---
 
-### 🧭 Gordon White（ゴードン・ホワイト）  
+### 🧙‍♂️ Gordon White（ゴードン・ホワイト）  
 
 <div align="left">
  <img src="Gordon_White.png" width="200">
@@ -90,7 +90,7 @@
 直接的なコメントは避けているが、YouTubeで**クトゥルー神話のような「フィクションを神格化する魔術はもう旧約聖書の時代」** と呼び距離を置く姿勢を取っている。人間と霊的存在の関係を見直し、実在的で生きた霊性を重視する立場から、現代の魔術界に一定の批判的再編を促している。
 
 
-### Julian Vayne（ジュリアン・ヴェイン）
+### 🧙‍♂️ Julian Vayne（ジュリアン・ヴェイン）
 
 <div align="left">
  <img src="Julian-Vayne.jpg" width="200">

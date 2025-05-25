@@ -16,7 +16,11 @@
 
 ### 🧙 Alan Moore（アラン・ムーア）  
 
-![アラン・ムーア](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Alan_Moore_2.jpg/330px-Alan_Moore_2.jpg)  
+<div align="left">
+ <img src="alan_moore.png" width="500">
+</div>
+<br>
+
 **職業：アメコミ原作者、儀式魔術師**  
 **魔術的立場：儀式魔術とグリゴン信仰を重視／伝統的秘教の擁護者**
 

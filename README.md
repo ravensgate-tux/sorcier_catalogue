@@ -34,7 +34,7 @@
 ### 🧠 Grant Morrison（グラント・モリスン）  
 
 <div align="left">
- <img src="grant_morrison" width="200">
+ <img src="grant_morrison.png" width="200">
 </div>
 <br>
  

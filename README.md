@@ -228,20 +228,20 @@ Image credit: Julian Vayne & Steve Dee, *Chaos Craft* (2018). Used here for educ
 
 ## 🧙 内的ワーク
 
-- [🐘 ガネーシャ・デーモン・モーフィング　（Fil Hine方式）](https://github.com/ravensgate-tux/hine_ganesha_morphing/blob/main/README.md)
-- [🌓 ヘカテの三重なる道（Ravensgate流 再構成儀式）](https://github.com/ravensgate-tux/hekate_ascending_flame/blob/main/README.md)
-- [🌓 ヘカテの内なる炎](https://github.com/ravensgate-tux/work_frame_threshold/blob/main/README.md)
-- [🌓 カードを使った肉体と精神の浄化と調和](https://github.com/ravensgate-tux/work_mental_cleansing/blob/main/README.md)
-- [🌓 過去の判断を解放するパスワーキング](https://github.com/ravensgate-tux/work_justice_passworking/blob/main/README.md)
-- [🌓 ペンタクルの女王と癒しのパスワーキング](https://github.com/ravensgate-tux/work_healing_queen_of_pentacles/blob/main/README.md)
-- [🌓 ヘカテとアゾート瞑想の月の儀式](https://github.com/ravensgate-tux/work_the_moon_hekate/blob/main/README.md)
-- [🌓 過去を手放し次の段階へと移行する儀式](https://github.com/ravensgate-tux/work_key_transition/blob/main/README.md)
-- [🌓「世界」カードを使った睡眠前の内的ワーク](https://github.com/ravensgate-tux/work_sleep_tarot/blob/main/README.md)
-- [🌓 内面の自己と向き合う（内なる十字路）自己鍛錬](https://github.com/ravensgate-tux/work_inner_circle/blob/main/README.md)
-- [🃏 自己鍛錬のための The Power of One](https://github.com/ravensgate-tux/work_power_of_one/blob/main/README.md)
-- [🃏 Ganesha Kumano Ritual（個人的な儀式：英語）](https://github.com/ravensgate-tux/ganesha_kumano_ritual/blob/main/README.md)
-- [🔬 漢字シジル・プロトコル v0.1（試作版）](https://github.com/ravensgate-tux/kanji-sigil/blob/main/README.md)
-- 💻 [Witchcraft API v0.1](https://github.com/ravensgate-tux/witchcraft_api_v01/blob/main/README.md)
+ [🐘 ガネーシャ・デーモン・モーフィング　（Fil Hine方式）](https://github.com/ravensgate-tux/hine_ganesha_morphing/blob/main/README.md)
+ [🌓 ヘカテの三重なる道（Ravensgate流 再構成儀式）](https://github.com/ravensgate-tux/hekate_ascending_flame/blob/main/README.md)
+ [🌓 ヘカテの内なる炎](https://github.com/ravensgate-tux/work_frame_threshold/blob/main/README.md)
+ [🌓 カードを使った肉体と精神の浄化と調和](https://github.com/ravensgate-tux/work_mental_cleansing/blob/main/README.md)
+ [🌓 過去の判断を解放するパスワーキング](https://github.com/ravensgate-tux/work_justice_passworking/blob/main/README.md)
+ [🌓 ペンタクルの女王と癒しのパスワーキング](https://github.com/ravensgate-tux/work_healing_queen_of_pentacles/blob/main/README.md)
+ [🌓 ヘカテとアゾート瞑想の月の儀式](https://github.com/ravensgate-tux/work_the_moon_hekate/blob/main/README.md)
+ [🌓 過去を手放し次の段階へと移行する儀式](https://github.com/ravensgate-tux/work_key_transition/blob/main/README.md)
+ [🌓「世界」カードを使った睡眠前の内的ワーク](https://github.com/ravensgate-tux/work_sleep_tarot/blob/main/README.md)
+ [🌓 内面の自己と向き合う（内なる十字路）自己鍛錬](https://github.com/ravensgate-tux/work_inner_circle/blob/main/README.md)
+ [🃏 自己鍛錬のための The Power of One](https://github.com/ravensgate-tux/work_power_of_one/blob/main/README.md)
+ [🃏 Ganesha Kumano Ritual（個人的な儀式：英語）](https://github.com/ravensgate-tux/ganesha_kumano_ritual/blob/main/README.md)
+ [🔬 漢字シジル・プロトコル v0.1（試作版）](https://github.com/ravensgate-tux/kanji-sigil/blob/main/README.md)
+ 💻 [Witchcraft API v0.1](https://github.com/ravensgate-tux/witchcraft_api_v01/blob/main/README.md)
 
 ---
 

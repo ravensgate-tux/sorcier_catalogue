@@ -53,7 +53,12 @@
 ---
 
 ### 🧪 Peter J. Carroll（ピーター・キャロル 1953年 - ）  
-![ピーター・キャロル](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Peter_J_Carroll.jpg/330px-Peter_J_Carroll.jpg)  
+
+<div align="left">
+ <img src="Peter_J_Carroll.png" width="200">
+</div>
+<br>
+
 **職業：物理学者、魔術理論家**  
 **魔術的立場：可塑的信念と実用魔術の構築者**
 

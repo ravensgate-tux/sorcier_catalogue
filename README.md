@@ -211,6 +211,10 @@
 - [🌓 Hekateチャントガイドブック](https://github.com/ravensgate-tux/hekate-chants/blob/main/README.md)
 - [🃏 キャンプ地での地霊への祈り（TAZ）](https://github.com/ravensgate-tux/prayer_to_campground/blob/main/README.md)
 - [🃏 明日のプレゼンテーションに効く儀式](https://github.com/ravensgate-tux/presentation_spell/blob/main/README.md)
+- [🔥 8大祝祭とDeviant Moon Tarotの対応表](https://github.com/ravensgate-tux/document_wheel_of_the_year/blob/main/README.md)
+- [🔥 ベルテイン／5月の祭の祝祭プロトコル](https://github.com/ravensgate-tux/beltaine_ritual/blob/main/README.md)
+- [🔥 カタツムリの祝祭（4月22日・アースデイ）](https://github.com/ravensgate-tux/snailmas/blob/main/README.md)
+- [🔬 本棚神殿の作り方](https://github.com/ravensgate-tux/bookshelf-temple/blob/main/README.md)
 
 <div align="center">
  <img src="wheel-of-the-year.jpeg" width="500">
@@ -219,12 +223,6 @@
 画像出典：Julian Vayne & Steve Dee, *Chaos Craft*（2018）より引用。図版は教育的・研究目的での紹介のために使用。<br>
 Image credit: Julian Vayne & Steve Dee, *Chaos Craft* (2018). Used here for educational and research purposes under fair use/fair dealing.
 <br>
-<br>
-- [🔥 8大祝祭とDeviant Moon Tarotの対応表](https://github.com/ravensgate-tux/document_wheel_of_the_year/blob/main/README.md)
-- [🔥 ベルテイン／5月の祭の祝祭プロトコル](https://github.com/ravensgate-tux/beltaine_ritual/blob/main/README.md)
-- [🔥 カタツムリの祝祭（4月22日・アースデイ）](https://github.com/ravensgate-tux/snailmas/blob/main/README.md)
-- [🔬 本棚神殿の作り方](https://github.com/ravensgate-tux/bookshelf-temple/blob/main/README.md)
-
 ---
 
 

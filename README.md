@@ -223,8 +223,8 @@
 画像出典：Julian Vayne & Steve Dee, *Chaos Craft*（2018）より引用。図版は教育的・研究目的での紹介のために使用。<br>
 Image credit: Julian Vayne & Steve Dee, *Chaos Craft* (2018). Used here for educational and research purposes under fair use/fair dealing.
 <br>
+ 
 ---
-
 
 ## 🧙 内的ワーク
 

@@ -78,9 +78,9 @@
 </div>
 <br>
 
-| 所属・参加 | プログラム名 |
+| 参加 | プログラム名 |
 |:-----------|:--------------|
-| ✅          | Gordon White’s Rune Soup |
+| ✅ Ravensgate | Gordon White’s Rune Soup |
 
 
 (画像出典:Amazon)
@@ -103,9 +103,9 @@
 </div>
 <br>
 
-| 所属・参加 | プログラム名 |
+| 参加 | プログラム名 |
 |:-----------|:--------------|
-| ✅          | Julian Vayne’s Course |
+| ✅ Ravensgate | Julian Vayne’s Course |
 
 (画像出典:Fulgur Press)
 

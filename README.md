@@ -142,9 +142,15 @@
 
 キャロルが『Liber Kaos』や『EPOCH』に示した三つのパラダイムの交差──
 
-- Transcendental Paradigm（超越的）
-- Magickal Paradigm（魔術的）
-- Materialistic Paradigm（物質主義的）
+- 🟢Transcendental Paradigm（超越的）
+- 🔵 Magickal Paradigm（魔術的）
+- 🔴 Materialistic Paradigm（物質主義的）
+
+<div align="left">
+ <img src="pandemon.png" width="600">
+</div>
+<br>
+
 
 このうち、**パンデモン期では再び「超越的パラダイム」が上昇しはじめている**と読み解くことができる。
 
@@ -155,11 +161,6 @@
 一方、**ゴードン・ホワイト**は「これからの魔術は関係性と対話性を重視する」とし、**ジュリアン・ヴェイン**もまた「体験・共鳴・儀礼を通した霊的現実」を実行しています。
 
 これらの潮流は、キャロルが予言したパンデモン期の本質──**神格との共存、信仰ではなく関与による魔術**──と明確に響きあっていると思われる。
-
-<div align="left">
- <img src="pandemon.png" width="300">
-</div>
-<br>
 
 （画像参照：『EPOCH』ピート・キャロル）
 

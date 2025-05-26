@@ -292,6 +292,11 @@ Image credit: Julian Vayne & Steve Dee, Chaos Craft (2018). Used here for educat
 - [🔬 漢字シジル・プロトコル v0.1（試作版）](https://github.com/ravensgate-tux/kanji-sigil/blob/main/README.md)
 - 💻 [Witchcraft API v0.1](https://github.com/ravensgate-tux/witchcraft_api_v01/blob/main/README.md)
 
+<div align="lefy">
+ <img src="oreally-media.png" width="300">
+</div
+ 
+
 </div>
 
 ---

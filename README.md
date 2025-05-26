@@ -293,10 +293,7 @@ Image credit: Julian Vayne & Steve Dee, Chaos Craft (2018). Used here for educat
 - 💻 [Witchcraft API v0.1](https://github.com/ravensgate-tux/witchcraft_api_v01/blob/main/README.md)
 
 <div align="lefy">
- <img src="oreally-media.png" width="200">
-</div
- 
-
+ [<img src="oreally-media.png" width="200"> ](https://github.com/ravensgate-tux/witchcraft_api_v01/blob/main/README.md)
 </div>
 
 ---

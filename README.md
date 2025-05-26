@@ -142,7 +142,7 @@
 
 キャロルが『Liber Kaos』や『EPOCH』に示した三つのパラダイムの交差──
 
-- 🟢Transcendental Paradigm（超越的）
+- 🟢 Transcendental Paradigm（超越的）
 - 🔵 Magickal Paradigm（魔術的）
 - 🔴 Materialistic Paradigm（物質主義的）
 

@@ -316,7 +316,7 @@ Image credit: Julian Vayne & Steve Dee, Chaos Craft (2018). Used here for educat
 - [🃏 自己鍛錬のための The Power of One](https://github.com/ravensgate-tux/work_power_of_one/blob/main/README.md)
 - [🃏 Ganesha Kumano Ritual（個人的な儀式：英語）](https://github.com/ravensgate-tux/ganesha_kumano_ritual/blob/main/README.md)
 - [🔬 漢字シジル・プロトコル v0.1（試作版）](https://github.com/ravensgate-tux/kanji-sigil/blob/main/README.md)
-- 💻 [Witchcraft API v0.1](https://github.com/ravensgate-tux/witchcraft_api_v01/blob/main/README.md)
+- 💻 [Witchcraft API v0.1（βテスト中）](https://github.com/ravensgate-tux/witchcraft_api_v01/blob/main/README.md)
 
 <div align="lefy">
  <img src="oreally-media.png" width="200">

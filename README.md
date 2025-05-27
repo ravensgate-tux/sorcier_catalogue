@@ -289,7 +289,7 @@
 - [🔬 本棚神殿の作り方](https://github.com/ravensgate-tux/bookshelf-temple/blob/main/README.md)
 
 <div align="center">
- <img src="wheel-of-the-year.jpeg" width="500">
+ <img src="wheel-of-the-year.jpeg" width="400">
 </div
  
 <div align="center">

@@ -270,6 +270,7 @@
 </div>
 <br>
 
+- [🌀 Transitus Fluvii（川を渡る者）を使用した、シジル生成（試作版）](https://github.com/ravensgate-tux/passing_river/blob/main/README.md)
 - [🐘 ガネーシャ神殿での日拝](https://github.com/ravensgate-tux/ganesha_morning/blob/main/README.md)
 - [🐘 ガネーシャへの感謝の儀式](https://github.com/ravensgate-tux/ganesha_gratitude/blob/main/README.md)
 - [🐘 ガネーシャへの体重減少（ダイエット）の儀式](https://github.com/ravensgate-tux/ganesha_diet/blob/main/README.md)

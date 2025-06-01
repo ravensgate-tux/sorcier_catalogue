@@ -73,20 +73,25 @@
 
 ### 🧙 Ray Sherwin（レイ・シャーウィン）
 
+<div style="display: flex; gap: 10px;">
+
 <div align="left">
  <img src="ray_sherwin.jpg" width="200">
 </div>
+
+<div align="left">
+ <img src="pig_inthe_pond.jpg" width="200">
+</div>
+<br>
+
+</div>
+
 <br>
 
 職業：魔術実践者、出版者、アーティスト
 魔術的立場：初期ケイオスマジックの共同創始者、Zos-Kia理論の再評価者
 
 『The Book of Results』『The Theatre of Magic』などの著者として知られる。Austin Osman Spareの影響を受け、Sigil Magicを現代的に再定義した。Peter J. CarrollとともにIOT（The Illuminates of Thanateros）の創設に関与し、のちに離脱。
-
-<div align="left">
- <img src="pig_inthe_pond.jpg" width="200">
-</div>
-<br>
 
 近年はアートと音楽を中心に活動しており、音声作品『The Pig in the Pond』を含む複数の楽曲を [Bandcamp](https://raysherwin.bandcamp.com/track/the-singing-tadpole) にて公開している。
 

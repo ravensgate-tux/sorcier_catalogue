@@ -74,8 +74,8 @@
 ### 🧙 Ray Sherwin（レイ・シャーウィン）
 
 <div style="display: flex; gap: 10px;">
-  <img src="ray_sherwin.jpg" width="200">
-  <img src="pig_inthe_pond.jpg" width="200">
+  <img src="ray_sherwin.jpg" width="300">
+  <img src="pig_inthe_pond.jpg" width="100">
 </div>
 
 <br>

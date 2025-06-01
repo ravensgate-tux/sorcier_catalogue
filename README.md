@@ -84,9 +84,12 @@
 **魔術的立場：初期ケイオスマジックの共同創始者、Zos-Kia理論の再評価者**
 
 『The Book of Results』『The Theatre of Magic』などの著者として知られる。Austin Osman Spareの影響を受け、Sigil Magicを現代的に再定義した。Peter J. CarrollとともにIOT（The Illuminates of Thanateros）の創設に関与し、のちに離脱。
+- 彼の著書『The Book of Results』では、スパーの理論を基にした実践的な魔術手法が紹介されています。
+  [The Book of Results』全文（PDF）]](https://cdn.preterhuman.net/texts/religion.occult.new_age/occult_library/Sherwin_R-The_Book_Of_Results.pdf?utm_source=chatgpt.com)
+- 彼の著書『The Theatre of Magick』では、スパーの手法を洗練させたシジル・マジックの方法論が解説されています。
+  [『The Theatre of Magick』](https://www.abebooks.com/9781481215145/Theatre-Magick-Sherwin-Ray-1481215140/plp?utm_source=chatgpt.com)
 
 近年はアートと音楽を中心に活動しており、音声作品『The Pig in the Pond』を含む複数の楽曲を [Bandcamp](https://raysherwin.bandcamp.com/track/the-singing-tadpole) にて公開している。
-
 ▶♬ 注目コンテンツ：
 Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndcamp**のリンク先で**無料で試聴可能**。シュールで儀式的な世界観を体感できる貴重な作品。
 

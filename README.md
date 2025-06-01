@@ -261,6 +261,16 @@
 - 🦑　[フィル・ハイン著『現代シャーマニズムの技法 第1巻』への注釈Zine](https://github.com/ravensgate-tux/hine_modern_shamanism/blob/main/README.md)
 - 🦑　[『喚起魔術の技法──フィル・ハインによる魔術実践と存在論の試み』の翻訳＋注釈Zine](https://github.com/ravensgate-tux/hine_evocation/blob/main/README.md)
 
+
+#### 4. **🐝 Servants of the Light（SOL）**<br>
+
+<div align="center">
+ <img src="sol.jpg" width="300">
+</div>
+<br>
+
+- 🐝　[Servants of the Light（SOL）関連文書への注釈Zine](https://github.com/ravensgate-tux/anthology_of_sol/blob/main/README.md)
+  
 ---
 
 ## 🧙 呪術プロトコル

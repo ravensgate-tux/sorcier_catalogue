@@ -266,7 +266,7 @@
 #### 4. **🐝 Servants of the Light（SOL）**<br>
 
 <div align="center">
- <img src="sol.jpeg" width="300">
+ <img src="sol.jpeg" width="200">
 </div>
 <br>
 

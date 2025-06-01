@@ -83,8 +83,13 @@
 
 『The Book of Results』『The Theatre of Magic』などの著者として知られる。Austin Osman Spareの影響を受け、Sigil Magicを現代的に再定義した。Peter J. CarrollとともにIOT（The Illuminates of Thanateros）の創設に関与し、のちに離脱。近年はアートと音楽を中心に活動しており、音声作品『The Pig in the Pond』を含む複数の楽曲を [Bandcamp](https://raysherwin.bandcamp.com/track/the-singing-tadpole) にて公開している。
 
+<div align="left">
+ <img src="pig_inthe_pond.jpg" width="200">
+</div>
+<br>
+
 ▶注目コンテンツ：
-Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記リンク先で無料で試聴可能。シュールで儀式的な世界観を体感できる貴重な作品。
+Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記リンク先で**無料で試聴可能**。シュールで儀式的な世界観を体感できる貴重な作品。
 
 ---
 

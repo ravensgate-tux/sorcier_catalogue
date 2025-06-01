@@ -1,4 +1,4 @@
-# 📚 Le Sorcier Inconnuの書架──翻訳と注釈の目録
+›# 📚 Le Sorcier Inconnuの書架──翻訳と注釈の目録
 
 このページは、作成済み、制作途中、制作予定のものに簡単にアクセスできるよう公開しています。<br>
 メニュー構成、各ページの内容や予定は、断りなく変更される可能性があります。
@@ -74,13 +74,8 @@
 ### 🧙 Ray Sherwin（レイ・シャーウィン）
 
 <div style="display: flex; gap: 10px;">
-<div align="left">
- <img src="ray_sherwin.jpg" width="200">
-</div>
-<div align="left">
- <img src="pig_inthe_pond.jpg" width="200">
-</div>
-<br>
+  <img src="ray_sherwin.jpg" width="200">
+  <img src="pig_inthe_pond.jpg" width="200">
 </div>
 
 <br>

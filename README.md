@@ -271,8 +271,10 @@
 <br>
 
 <div align="center">
+ 
 - SOLロゴ画像出典：[Wikimedia Commons - Servants of the Light](https://commons.wikimedia.org/wiki/File:Servants-of-the-Light.png)  
-  ライセンス：Creative Commons Attribution-Share Alike 3.0 Unported（CC BY-SA 3.0）
+   ライセンス：Creative Commons Attribution-Share Alike 3.0 Unported（CC BY-SA 3.0）
+  
 </div>
 <br>
 

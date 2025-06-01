@@ -270,6 +270,12 @@
 </div>
 <br>
 
+<div align="center">
+- SOLロゴ画像出典：[Wikimedia Commons - Servants of the Light](https://commons.wikimedia.org/wiki/File:Servants-of-the-Light.png)  
+  ライセンス：Creative Commons Attribution-Share Alike 3.0 Unported（CC BY-SA 3.0）
+</div>
+<br>
+
 - 🐝　[Servants of the Light（SOL）関連文書への注釈Zine](https://github.com/ravensgate-tux/anthology_of_sol/blob/main/README.md)
   
 ---

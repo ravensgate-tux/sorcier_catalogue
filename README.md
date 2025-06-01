@@ -263,7 +263,7 @@
 
 <br>
 
-#### 4. **🐝 Servants of the Light（SOL）**関連 <br>
+#### 4. 🐝 Servants of the Light（SOL）関連 <br>
 
 <div align="center">
  <img src="sol.jpeg" width="200">

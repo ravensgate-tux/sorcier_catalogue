@@ -262,10 +262,11 @@
 - 🦑　[『喚起魔術の技法──フィル・ハインによる魔術実践と存在論の試み』の翻訳＋注釈Zine](https://github.com/ravensgate-tux/hine_evocation/blob/main/README.md)
 
 
+
 #### 4. **🐝 Servants of the Light（SOL）**<br>
 
 <div align="center">
- <img src="sol.jpg" width="300">
+ <img src="sol.jpeg" width="300">
 </div>
 <br>
 

@@ -80,8 +80,8 @@
 
 <br>
 
-職業：魔術実践者、出版者、アーティスト
-魔術的立場：初期ケイオスマジックの共同創始者、Zos-Kia理論の再評価者
+**職業：魔術実践者、出版者、アーティスト**
+**魔術的立場：初期ケイオスマジックの共同創始者、Zos-Kia理論の再評価者**
 
 『The Book of Results』『The Theatre of Magic』などの著者として知られる。Austin Osman Spareの影響を受け、Sigil Magicを現代的に再定義した。Peter J. CarrollとともにIOT（The Illuminates of Thanateros）の創設に関与し、のちに離脱。
 

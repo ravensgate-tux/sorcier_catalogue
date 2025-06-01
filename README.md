@@ -78,6 +78,8 @@
   <img src="pig_inthe_pond.jpg" width="100">
 </div>
 
+(画像出典:Bandcamp)
+
 <br>
 
 **職業：魔術実践者、出版者、アーティスト**

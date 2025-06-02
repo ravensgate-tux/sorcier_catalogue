@@ -87,7 +87,7 @@
 
 『The Book of Results』『The Theatre of Magic』などの著者として知られる。Austin Osman Spareの影響を受け、Sigil Magicを現代的に再定義した。Peter J. CarrollとともにIOT（The Illuminates of Thanateros）の創設に関与し、のちに離脱。
 - 彼の著書『The Book of Results』では、スパーの理論を基にした実践的な魔術手法が紹介されている。<br>
-  [The Book of Results』全文（PDF）](https://cdn.preterhuman.net/texts/religion.occult.new_age/occult_library/Sherwin_R-The_Book_Of_Results.pdf?utm_source=chatgpt.com)
+  [『The Book of Results』全文（PDF）](https://cdn.preterhuman.net/texts/religion.occult.new_age/occult_library/Sherwin_R-The_Book_Of_Results.pdf?utm_source=chatgpt.com)
 - 彼の著書『The Theatre of Magick』では、スパーの手法を洗練させたシジル・マジックの方法論が解説されている。<br>
   [『The Theatre of Magick』](https://www.abebooks.com/9781481215145/Theatre-Magick-Sherwin-Ray-1481215140/plp?utm_source=chatgpt.com)
 

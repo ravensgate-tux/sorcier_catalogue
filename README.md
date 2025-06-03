@@ -229,12 +229,11 @@ Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndc
 </div>
 <br>
 
-- 🎨 [オースティン・オスマン・スペアの『地上の地獄 (1905年)』翻訳Zine）](https://github.com/ravensgate-
-tux/Anathema_of_Zos/blob/main/README.md)
-- 🎨 [オースティン・オスマン・スペアの『半獣神たちの書 (1907年)』翻訳Zine](https://github.com/ravensgate-tux/book_satyrs/blob/main/README.md)
-- 🎨 [オースティン・オスマン・スペアの『快楽の書 (1913年)』の翻訳＋注釈Zine──ZOS/KIAと魔術の原点](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md)
-- 🚧 [オースティン・オスマン・スペアの『生活の焦点 (1921年)』翻訳Zine（**製作中🚧**）](https://github.com/ravensgate-tux/focus-of-life/blob/main/README.md_404)
-- 🎨 [オースティン・オスマン・スペアの『ゾスの呪詛 (1927年)――偽善者たちへの説教』翻訳Zine](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
+- 🎨 [『地上の地獄(1905年)』翻訳Zine](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
+- 🎨 [『半獣神たちの書 (1907年)』翻訳Zine](https://github.com/ravensgate-tux/book_satyrs/blob/main/README.md)
+- 🎨 [『快楽の書 (1913年)』の翻訳＋注釈Zine──ZOS/KIAと魔術の原点](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md)
+- 🚧 [『生活の焦点(1921年)』翻訳Zine（**製作中🚧**）](https://github.com/ravensgate-tux/focus-of-life/blob/main/README.md_404)
+- 🎨 [『ゾスの呪詛 (1927年)――偽善者たちへの説教』翻訳Zine](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
 
 #### スペアの全著作について alphabetという語の調査結果をまとめると…
 

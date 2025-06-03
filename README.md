@@ -90,6 +90,8 @@
 
 YouTube等での発信も積極的に行い、象徴体系ではなく「共に生きる存在との協働」による魔術の再定義を試みている。
 
+🔗👉[@IvyTheOccultist](https://www.youtube.com/@IvyTheOccultist)
+
 ---
 
 ### 🧙 Ray Sherwin（レイ・シャーウィン）

@@ -277,11 +277,8 @@ Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndc
 - この文書には1954年9月14日頃からグラントの依頼でスペアが「欲望のアルファベット」を完成させていく過程が記録されている<br>
 - 68歳で記憶も判断力も落ちていると言うスペアにグラントから逆にこういうシジルだったとスペアに対して送り付けられていく<br>
 - 1954年9月14日にスペアが書いた（と、ケネス・グラントが自書に書いているのがこちら）
-- 
-<div align="center">
- <img src="AOS-1954.png" width="300">
-</div>
-<br>
+  
+>Can't help you now re o Sacred Alpha: Key to it & over 300 letters & words (sufficient magicial words to convey anything) was all destroyed in the Blitz ... What with loss of memory & lousy normal memory I've still to make the effort to re-member & reform it again . You shall know when I do - just two or three days in the Country & it will gush out!
 
 - グラントからは「Zos＝手」「Kia＝目」と書かれた手書きメモとシジルが送られ(1954年10月10日)、スペアは「自分の書いたものではないと思う」と述べるが、その後Zos-Kiaの概念は変質する<br>
 - 最終的にグラントはこれを「欲望のアルファベット」と呼ぶ（1954年11月5日）<br>

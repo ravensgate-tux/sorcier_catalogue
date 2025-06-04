@@ -294,7 +294,7 @@ Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndc
 #### 🃏 Austin Osman Spare の 1906 年タロットデッキ（『Lost Envoy』）概要
 
 <div align="left">
- <img src="spare-tarot.jpg" width="300">
+ <img src="spare-tarot.jpg" width="200">
 </div>
 <br>
 

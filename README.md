@@ -74,8 +74,9 @@
 
 ### 🧙‍♂️ Ivy Corvus（アイヴィ・コーヴァス）
 
-<div align="left">
- <img src="ivy_corvus.jpg" width="200">
+<div style="display: flex; gap: 10px;">
+  <img src="ivy_corvus.jpg" width="200">
+  <img src="thisischaos.jpg" width="200">
 </div>
 <br>
 

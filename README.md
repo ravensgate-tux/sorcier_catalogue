@@ -293,6 +293,13 @@ Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndc
 
 #### 🃏 Austin Osman Spare の 1906 年タロットデッキ（『Lost Envoy』）概要
 
+<div align="left">
+ <img src="spare-tarot.jpg" width="300">
+</div>
+<br>
+
+（画像参照：handsomebooks.uk）
+
 #### 🔹 制作背景
 Austin Osman Spare は 1904〜1909 年の間に、**78 枚の手描き・手彩色のタロットデッキ**を制作。彼の初期のオカルト関心と芸術的実験を反映したユニークな作品である。
 

@@ -291,12 +291,12 @@ Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndc
 </div>
 <br>
 
-## 🃏 Austin Osman Spare の 1906 年タロットデッキ（『Lost Envoy』）概要
+#### 🃏 Austin Osman Spare の 1906 年タロットデッキ（『Lost Envoy』）概要
 
-### 🔹 制作背景
+#### 🔹 制作背景
 Austin Osman Spare は 1904〜1909 年の間に、**78 枚の手描き・手彩色のタロットデッキ**を制作。彼の初期のオカルト関心と芸術的実験を反映したユニークな作品である。
 
-### 🔹 デッキの構成と特徴
+#### 🔹 デッキの構成と特徴
 
 - **構成**：全78枚。マルセイユ版や Oswald Wirth のデッキの影響を受けつつも、完全に独自の象徴性。
 - **スート**：伝統的な「カップ・剣・コイン・杖」ではなく、**ハート・スペード・ダイヤ・クラブ**のトランプ様式。
@@ -305,21 +305,21 @@ Austin Osman Spare は 1904〜1909 年の間に、**78 枚の手描き・手彩�
 - **連続絵画的構成**：一部のカードは、隣接カードと連結すると**蛇などの図像**が現れる設計。
 - **裏面**：統一されておらず、**黒・ピンク・緑・紫など色彩豊かに手塗り**されている。
 
-### 🔹 再発見と出版
+#### 🔹 再発見と出版
 
 - **1944年**：The Magic Circle Museum に寄贈されるも、長らく未公開。
 - **2013年**：Jonathan Allen により再発見。
 - **2016年**：Strange Attractor Press より『**Lost Envoy**』として書籍化。
 - **2023年**：Kickstarter にてデッキ復刻と新版出版が実現。
 
----
-
-### 🧠 コメント
+#### 🧠 コメント
 このデッキは、**歴史的価値と芸術的実験の交差点**に立つ作品。Spare の内的ヴィジョンと初期魔術体系（Zos-Kia）への鍵ともなり得る貴重なタロット資料。
 
 > 🔗 [レビュー元（handsomebooks.uk）](https://handsomebooks.uk/review-austin-osman-spare-1906-tarot-deck.html)
 
 <br>
+
+---
 
 #### 2. **🕶 グラント・モリスン関連**<br>
 
@@ -343,6 +343,8 @@ Austin Osman Spare は 1904〜1909 年の間に、**78 枚の手描き・手彩�
 - 🦑　[『喚起魔術の技法──フィル・ハインによる魔術実践と存在論の試み』の翻訳＋注釈Zine](https://github.com/ravensgate-tux/hine_evocation/blob/main/README.md)
 
 <br>
+
+---
 
 #### 4. 🐝 Servants of the Light（SOL）関連 <br>
 

@@ -76,7 +76,7 @@
 
 <div style="display: flex; gap: 10px;">
   <img src="ivy_corvus.jpg" width="200">
-  <img src="thisischaos.jpg" width="200">
+  <img src="thisischaos.jpg" width="100">
 </div>
 <br>
 

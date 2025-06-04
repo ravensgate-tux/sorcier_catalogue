@@ -123,8 +123,9 @@ Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndc
 
 ### 🧙‍♂️ Gordon White（ゴードン・ホワイト）  
 
-<div align="left">
- <img src="Gordon_White.png" width="200">
+<div style="display: flex; gap: 10px;">
+  <img src="Gordon_White.png" width="200">
+  <img src="chaos-protocols.png" width="100">
 </div>
 <br>
 

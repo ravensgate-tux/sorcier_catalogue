@@ -247,7 +247,7 @@ Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndc
 
 ## 🔗 翻訳＋注釈Zineプロジェクト
 
-### JMP01
+### AOS01
 
 #### 1. **🎨 オースティン・オスマン・スペア関連**<br>
 

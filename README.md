@@ -252,8 +252,8 @@ Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndc
 
 <br>
 
-# 『EPOCH』P43～P48 要約  
-## Theometry and Aeonics（神性幾何学と永劫論）
+### 『EPOCH』P43～P48 要約  
+### Theometry and Aeonics（神性幾何学と永劫論）
 
 ピート・キャロルは本章において、人類の神観・宗教観の歴史を5つの「エオン（思想時代）」として整理している：
 
@@ -265,7 +265,7 @@ Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndc
 
 ---
 
-## パンデモン期における神格とタロット
+### パンデモン期における神格とタロット
 
 この新しい時代、神々は信仰対象ではなく「個人の意図（Intent）」を投影する“乗り物”として扱われる。  
 → タロットはこの「意図の器（vehicles of intent）」として再解釈される。

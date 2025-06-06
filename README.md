@@ -401,6 +401,7 @@ SOLロゴ画像出典：[Wikimedia Commons - Servants of the Light](https://comm
 - [🃏 明日のプレゼンテーションに効く儀式](https://github.com/ravensgate-tux/presentation_spell/blob/main/README.md)
 - [🔥 8大祝祭とDeviant Moon Tarotの対応表](https://github.com/ravensgate-tux/document_wheel_of_the_year/blob/main/README.md)
 - [🔥 ベルテイン／5月の祭の祝祭プロトコル](https://github.com/ravensgate-tux/beltaine_ritual/blob/main/README.md)
+- [🔥 夏至の祝祭儀式の祝祭プロトコル](https://github.com/ravensgate-tux/summer_solstice/blob/main/README.md)
 - [🔥 カタツムリの祝祭（4月22日・アースデイ）](https://github.com/ravensgate-tux/snailmas/blob/main/README.md)
 - [🔬 本棚神殿の作り方](https://github.com/ravensgate-tux/bookshelf-temple/blob/main/README.md)
 

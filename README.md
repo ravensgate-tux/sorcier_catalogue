@@ -247,7 +247,7 @@ Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndc
 そうなのであれば、アラン・ムーアが批判する **「クトゥルフ神話の神格」** を召喚することはもはや不要なのではないだろうか。
 
 <div align="left">
-   <img src="epoch.jpg" width="300">
+   <img src="epoch.jpg" width="200">
 </div>
 
 <br>

@@ -262,7 +262,7 @@ Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndc
 - 🎨 [『生命の焦点(1921年)』翻訳Zine](https://github.com/ravensgate-tux/focus-of-life/blob/main/README.md)
 - 🎨 [『ゾスの呪詛 (1927年)――偽善者たちへの説教』翻訳Zine](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
 
-#### スペアの全著作について alphabetという語の調査結果を調べた…(「聖なるアルファベット」って固有名詞じゃないんじゃね？仮説）
+#### スペアの全著作について alphabetという語の出現頻度を調べた…(「聖なるアルファベット」って固有名詞じゃないんじゃね？仮説）
 
 - 1️⃣『地上の地獄』– 絵と詩：alphabet (0)
 - 2️⃣『半獣神たちの書』– 絵のみ（スペアの文なし）

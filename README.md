@@ -54,8 +54,9 @@
 
 ### 🧙‍♂️ Peter J. Carroll（ピーター・キャロル 1953年 - ）  
 
-<div align="left">
+<div style="display: flex; gap: 10px;">
  <img src="Peter_J_Carroll.png" width="200">
+   <img src="epoch.jpg" width="100">
 </div>
 <br>
 

@@ -7,11 +7,11 @@
 
 ## 🗂 注目の最新記事など
 
-- 🆕 [アラン・ムーア：ケイオスマジックは「ファーストフード魔術」発言（該当ページ抜粋／英語）](Alanmoore_Chaos_Magic_2025.pdf)
-- 🆕 [ゴードン・ホワイト：アラン・ムーアに反論（YouTube:英語/日本語設定可能）](https://www.youtube.com/watch?v=KyduQCcRbFs)
-- 🆕 [ピータ・キャロル：アラン・ムーアに反論（Specularium:英語/Google翻訳可能）](https://www.specularium.org/blog/mayblog-2025)
-
-
+-  [アラン・ムーア：ケイオスマジックは「ファーストフード魔術」発言（該当ページ抜粋／英語）](Alanmoore_Chaos_Magic_2025.pdf)
+-  [ゴードン・ホワイト：アラン・ムーアに反論（YouTube:英語/日本語設定可能）](https://www.youtube.com/watch?v=KyduQCcRbFs)
+-  [ピータ・キャロル：アラン・ムーアに反論（Specularium:英語/Google翻訳可能）](https://www.specularium.org/blog/mayblog-2025)
+-  [Deviant Moon Tarot 解説Zine](https://github.com/ravensgate-tux/deviant_moon/blob/main/README.md)
+  
 ## 🧙‍♂️ 関係者紹介──現代魔術を語るキーパーソンたち
 
 ### 🧙 Alan Moore（アラン・ムーア　1953年11月18日 - ）  

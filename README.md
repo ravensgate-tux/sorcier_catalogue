@@ -360,8 +360,6 @@ Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndc
 　ナルシシズムではなく、「欲望そのもの」としての自己を愛する行為。  
 　KiaやZosの概念は、**個体を通して宇宙意識に接続する道**として位置づけられる。
 
----
-
 **Kenneth Grantとの乖離**
 
 - GrantはSpareを「宇宙魔術の始祖」「ダアトの先導者」として神話化
@@ -374,8 +372,6 @@ Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndc
 - 神話や宇宙論ではなく、「今・ここ・この身体」の経験に根ざした実践
 
 > ☑ Grantの「Zos Kia Cultus」は、Spare本人の哲学というよりは、Grantの構築した物語である
-
----
 
 #### 個人的な所感と今後の展望
 

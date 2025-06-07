@@ -345,7 +345,7 @@ Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndc
 </div>
 <br>
 
-#### Austin Osman Spareの思想とKenneth Grantとの乖離について
+#### 🐌 Austin Osman Spareの思想とKenneth Grantとの乖離について
 
 **Spare思想のコア（ぶれない三本柱）**
 

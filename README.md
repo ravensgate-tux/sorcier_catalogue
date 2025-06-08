@@ -457,7 +457,6 @@ Austin Osman Spare は 1904〜1909 年の間に、**78 枚の手描き・手彩�
 Phil Baker『Austin Osman Spare: The Life and Legend of London’s Lost Artist』（第二版ノート2）より
 
 **内容の要約**
-
 > "No trace has been found of the New Isis Lodge or its activities. No one I spoke to who had known Grant in the 1950s or 60s recalled it being mentioned. There are no extant documents, no photographs, no rituals, no initiates who can be found."
 
 （訳）  
@@ -470,9 +469,9 @@ Kenneth Grantが主張していた "New Isis Lodge" の実在性には疑問が�
 >断定はできないものの、この見解は、グラントの著作群全体に対する懐疑的な視点と一致している。つまり、彼が描き出す「スペアの教義」や「Zos-Kia Cultus」も、フィクショナル（作為的）な構築物である可能性を孕んでいる。
 
 **注意点**
-この見解を用いる場合、「確認されていない」「証拠が乏しい」といった表現を用いて、断定を避けつつ批判的視点を提示するのが望ましい。
+存在しなかった証明が難しいため、この見解を用いる場合には、「確認されていない」「証拠が乏しい」といった表現を用いて、断定を避けつつ批判的視点を提示するのが望ましいだろう。
 
---
+---
 
 #### 2. **🕶 グラント・モリスン関連**<br>
 

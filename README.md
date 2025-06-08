@@ -403,11 +403,13 @@ Austin Osman Spare は 1904〜1909 年の間に、**78 枚の手描き・手彩�
 - **2023年**：Kickstarter にてデッキ復刻と新版出版が実現
 
 <div align="left">
- <img src="spare_tarot.png" width="200">
+ <img src="spare_tarot.png" width="500">
 </div>
 <br>
 
-[Austin Osman Spare Tarot Deck & Book](https://www.kickstarter.com/projects/strangeattractoruk/austin-osman-spare-occult-tarot-deck-and-book)
+（画像参照：kickstarter.com）
+
+**KICKSTARTER** 👉 [Austin Osman Spare Tarot Deck & Book](https://www.kickstarter.com/projects/strangeattractoruk/austin-osman-spare-occult-tarot-deck-and-book)
 
 #### 🧠 コメント
 このデッキは、**歴史的価値と芸術的実験の交差点**に立つ作品。Spare の内的ヴィジョンと初期魔術体系（Zos-Kia）への鍵ともなり得る貴重なタロット資料。

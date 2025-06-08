@@ -374,6 +374,8 @@ Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndc
 - つまり、GrantによるZOS-KIAの男女分割は、Spareが拒否し続けた世界観の枠組みに彼を押し込めるものであり、  
   **KIAの途方もない矮小化**といえる。
 
+### AOS03
+
 #### 🃏 Austin Osman Spare の 1906 年タロットデッキ（『Lost Envoy』）概要
 
 <div align="left">

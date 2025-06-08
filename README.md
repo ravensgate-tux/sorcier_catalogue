@@ -420,6 +420,39 @@ Austin Osman Spare は 1904〜1909 年の間に、**78 枚の手描き・手彩�
 
 <br>
 
+
+### AOS04
+
+<div style="display: flex; gap: 10px;">
+ <img src="AOS-revised.jpg" width="200">
+ <img src="alan_moore.png" width="200">
+</div>
+<br>
+
+#### Phil BakerによるSpare伝記とAlan Mooreの序文 要約
+
+**1. Phil Bakerの試みと意義**
+
+- Phil Bakerは、これまで断片的に語られてきたAustin Osman Spareの人物像を、  
+  統一感と説得力をもって再構成した。  
+- Spareに関する従来の誇張された神秘的・逸話的イメージ（例：ZosやKia、死の姿勢など）を、  
+  地に足のついた実在の人間として再評価した。  
+- Kenneth Grantによる「二元論的解釈」や神話化に対しては距離を取り、  
+  Spare本人の言葉と生活から、より実態に即した像を提示している。  
+
+**2. Alan Mooreの評価と比較**
+
+- MooreはSpareを、William Blakeと並ぶ「個人神話を創造した芸術家」として高く評価。  
+- その一方で、Spareの実像がKenneth Grantの解釈によって見えにくくなっていたことを指摘。  
+- Phil Bakerの著作はその神秘のベールを取り払い、  
+  Spareの実際の人生・性格・創作を冷静かつ親しみある筆致で描いた点を高く評価している。  
+
+**3. 両者に共通する観点**
+
+- Spareの特異性（孤独、貧困、官能、個人神学）を神話ではなく、事実に即して記述。  
+- Grantによる誇張されたSpare像を反転させ、過度な「魔術的伝説」から彼を解放。  
+- 結果として、Spareの創造性・芸術性・人間性がより明確に浮かび上がってくる。  
+
 ---
 
 #### 2. **🕶 グラント・モリスン関連**<br>

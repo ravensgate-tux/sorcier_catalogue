@@ -478,6 +478,13 @@ Kenneth Grantが主張していた "New Isis Lodge" の実在性には疑問が�
 </div>
 <br>
 
+（画像参照：Amazon.co.jp）
+
+>📘 本書について
+>本書は、Austin Osman Spare の人物像と思想、とりわけ Zos＝Kia 理論について、
+>Kenneth Grant らによって誇張・誤解されてきた可能性のある通説を、原資料と関係者証言をもとに徹底的に検証した決定的評伝です。
+>著者は Phil Baker。序文を Alan Moore が寄せ、Spare を「ウィリアム・ブレイクと並ぶべき芸術家」として称えています。
+
 #### Austin Osman Spare における「Zos」と「Kia」の思想
 
 > 本稿は、Phil Baker 著  

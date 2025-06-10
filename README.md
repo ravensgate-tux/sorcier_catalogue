@@ -434,8 +434,8 @@ Austin Osman Spare は 1904〜1909 年の間に、**78 枚の手描き・手彩�
 ### AOS04
 
 <div style="display: flex; gap: 10px;">
- <img src="AOS-revised.jpg" width="200">
  <img src="alan_moore_great.png" width="200">
+ <img src="AOS-revised.jpg" width="200">
 </div>
 <br>
 

@@ -460,6 +460,7 @@ Austin Osman Spare は 1904〜1909 年の間に、**78 枚の手描き・手彩�
 - 結果として、Spareの創造性・芸術性・人間性がより明確に浮かび上がってくる
 
 ## A05
+### AOS05
 
 #### メモ：ケネス・グラントの言うNew Isis Lodgeの実在性について
 
@@ -568,7 +569,7 @@ Kenneth Grantが主張していた "New Isis Lodge" の実在性には疑問が�
 
 この翻訳は、学術的・批評的目的に基づく「引用・紹介」に該当し、著作権法第32条に基づく正当な範囲で行われています。元資料の著者および出版社に最大限の敬意を表しつつ、日本語話者にスペア思想の理解を促進することを目的としています。
 
-## AOS07
+### AOS07
 
 **🪷 Spareの「死のポーズ」と宗教観（Phil Bakerによる検証）**
 
@@ -599,7 +600,7 @@ Phil BakerとAlan Mooreによる正当な評価は、Spareをウィリアム・�
 > “Spare deserves to be read with the same seriousness we give to Blake.”  
 > — *Alan Moore*
 
-## AOS08
+### AOS08
 
 #### スペアが影響を受けた人物
 

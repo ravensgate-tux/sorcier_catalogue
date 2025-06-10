@@ -345,9 +345,10 @@ Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndc
 </div>
 <br>
 
+<br>
 
 <div style="display: flex; gap: 10px;">
- <img src="spa1.jpg" width="200">
+ <img src="spa1.png" width="200">
  <img src="spa2.png" width="200">
 </div>
 <br>

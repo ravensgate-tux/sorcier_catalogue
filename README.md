@@ -345,6 +345,15 @@ Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndc
 </div>
 <br>
 
+
+<div style="display: flex; gap: 10px;">
+ <img src="spa1.jpg" width="200">
+ <img src="spa2.png" width="200">
+</div>
+<br>
+
+知られざる呪術師は、上記の「ゾスの魔導書」とよばれるスペアが書いたといわれる文書を2二種類所有しているが、あまりに都とのっった英文の文体でAIの分析でもこれは別人が書いたものと判断されている。そのうちの一つは著者名はオースティン・オスマン・スペアと記述があるものの、書いたのはケネス・グラントと書かれている。
+
 ### AOS02
 
 #### 🐌 Austin Osman Spareの思想とKenneth Grantとの乖離について

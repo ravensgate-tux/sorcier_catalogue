@@ -439,6 +439,9 @@ Austin Osman Spare は 1904〜1909 年の間に、**78 枚の手描き・手彩�
 </div>
 <br>
 
+オースティン・オズマン・スペア、改訂版：ロンドンの失われた芸術家の生涯と伝説（英語版）フィル・ベイカー<br>
+[Amazon.co.jp](https://www.amazon.co.jp/gp/product/B09RPMS24P/ref=kinw_myk_ro_title)
+
 #### Phil BakerによるSpare伝記とAlan Mooreの序文 
 
 **1. Phil Bakerの試みと意義**

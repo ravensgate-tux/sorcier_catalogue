@@ -676,7 +676,7 @@ Phil BakerとAlan Mooreによる正当な評価は、Spareをウィリアム・�
 <br>
 
 <div align="left">
- <img src="whitebear2.pmg" width="400">
+ <img src="whitebear2.png" width="400">
 </div>
 <br>
 

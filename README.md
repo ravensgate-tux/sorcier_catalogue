@@ -38,6 +38,11 @@
 
 (画像出典:Amazon.co.jp)
 
+<img src="Moore-Spare.png" width="800">
+YouTube [Alan Moore on Austin Osman Spare](https://www.youtube.com/watch?v=sjtK7vQdgEg)
+
+(画像出典:YouTube.com)
+
 ---
 
 ### 🧙‍♂️ Grant Morrison（グラント・モリスン　1960年1月31日 - ）  

@@ -17,7 +17,7 @@
 ### 🧙 Alan Moore（アラン・ムーア　1953年11月18日 - ）  
 
 <div align="left">
- <img src="alan_moore.png" width="200">
+ <img src="alan_moore_great.png" width="200">
 </div>
 <br>
 

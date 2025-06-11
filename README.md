@@ -16,8 +16,11 @@
 
 ### 🧙 Alan Moore（アラン・ムーア　1953年11月18日 - ）  
 
-<div align="left">
  <img src="alan_moore_great.png" width="200">
+
+
+<div align="left">
+<img src="alan_moore_great.png" width="200">
 </div>
 <br>
 
@@ -30,6 +33,13 @@
 
 🧾 **今回の騒動における主張：**  
 2025年の著作で **「現代のケイオスマジックはファーストフード魔術である」** と批判し、より深い精神修養と伝統の重要性を訴えている。
+
+**作品紹介『プロメテア(1)〜(3)』**
+
+<img src="prometea1.png" width="800">
+<img src="prometea2.png" width="800">
+
+(画像出典:Amazon.co.jp)
 
 ---
 

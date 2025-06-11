@@ -33,13 +33,14 @@
 
 **作品紹介『プロメテア(1)〜(3)』**
 
-<img src="prometea1.png" width="800">
-<img src="prometea2.png" width="800">
+<img src="prometea1.png" width="400">
+<img src="prometea2.png" width="400">
 
 (画像出典:Amazon.co.jp)
 
-<img src="Moore-Spare.png" width="800">
-YouTube [Alan Moore on Austin Osman Spare](https://www.youtube.com/watch?v=sjtK7vQdgEg)
+<img src="Moore-Spare.png" width="400">
+
+YouTube ⏩ [Alan Moore on Austin Osman Spare](https://www.youtube.com/watch?v=sjtK7vQdgEg)
 
 (画像出典:YouTube.com)
 

@@ -225,6 +225,8 @@ Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndc
 
 ---
 
+## JV01
+
 ### 🧙‍♂️ Julian Vayne（ジュリアン・ヴェイン）
 
 <div style="display: flex; gap: 10px;">

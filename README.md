@@ -90,6 +90,14 @@ YouTube ⏩ [Alan Moore on Austin Osman Spare](https://www.youtube.com/watch?v=s
 
 ### 著者紹介：Lionel Snell（ライオネル・スネル）
 
+<div style="display: flex; gap: 10px;">
+  <img src="lionel_snell.jpg" width="200">
+  <img src="thisischaos.jpg" width="100">
+</div>
+<br>
+
+(画像出典：ACADEMIA)
+
 Lionel Snell（別名：Ramsey Dukes）は、1970年代から活躍するイギリスの魔術思想家・著述家であり、**ケイオスマジック運動の草創期に理論的基盤を与えた人物のひとり**。  
 イギリスの魔術理論家。
 1970年代以降、「Ramsey Dukes」名義で執筆を行い、**オースティン・スペア**と**アレイスター・クロウリー**の双方に敬意を表しながら、現代魔術の理論的枠組みを構築してきた人物。
@@ -138,7 +146,7 @@ Snellは自身の実践の中で、Crowleyから得た構造とSpareから得た
 
 > 「私は両者を選ばなかった。私はどちらからも学んだ。」（Snellの回想より）
 
-このように、SnellはSpareとCrowleyを共に称揚し、現代魔術における二つの源流の統合を図った稀有な人物である。
+このように、**SnellはSpareとCrowleyを共に称揚**し、現代魔術における二つの源流の統合を図った稀有な人物である。
 
 ---
 

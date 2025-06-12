@@ -86,6 +86,56 @@ YouTube ⏩ [Alan Moore on Austin Osman Spare](https://www.youtube.com/watch?v=s
 
 ---
 
+## LS01
+
+### 著者紹介：Lionel Snell（ライオネル・スネル）
+
+Lionel Snell（別名：Ramsey Dukes）は、1970年代から活躍するイギリスの魔術思想家・著述家であり、**ケイオスマジック運動の草創期に理論的基盤を与えた人物のひとり**。  
+数理哲学や科学的懐疑主義に根ざした思考を背景に、魔術と現代思潮の架け橋となる数多くの著作を残している。代表作には：
+
+- [『Exploring Spare’s Magic』](https://pdfcoffee.com/ramsey-dukes-lionel-snell-exploring-spares-magic-pdf-free.html)
+
+というオースティン・オスマン・スペアに関する文書があり、これらはケイオスマジック実践者の間で高く評価されている。
+
+**SpareとCrowleyについての見解（『Exploring Spare』より）**
+
+Snellは、Aleister CrowleyとAustin Osman Spareの両者を「魔術の補完的な側面を体現した人物」として評価している。
+
+- **Crowley**：明晰な構造、強力な象徴体系と自己神格化の手法に秀でた存在。
+- **Spare**：無意識や創造性、夢見の領域に深く入り込む詩的で象徴的な実践家。
+
+Snellにとってこの両者は「どちらか一方に傾倒すれば盲点が生まれる」存在であり、**両者を併せて読むことではじめて見える魔術的理解がある**という立場をとる。
+
+> Spare may have disliked Crowley, and Crowley may have dismissed Spare,  
+> but I believe both are necessary to grasp the full spectrum of modern magic.
+
+このようにSnellは**感情的・歴史的な対立よりも、思想的統合を重視する視点**で魔術を捉えている。
+
+**Lionel SnellとSpare & Crowleyの関係**
+
+Lionel Snell（別名Ramsey Dukes）は、オースティン・オスマン・スペア（Spare）とアレイスター・クロウリー（Crowley）という、一見相反する魔術的アプローチを取った2人の思想家の両方に深い敬意を示している。
+
+**Snellの視点の要点**
+
+- **SpareとCrowleyの両立**  
+  Snellは、CrowleyとSpareを対立的な存在としてではなく、魔術の2つの異なる方向性を代表するものとして捉えている。Crowleyは「制度化された儀式と神智学的枠組み」を重視し、Spareは「個人の無意識と芸術的直観」に基づく魔術を体現している。
+
+- **Crowleyへの評価**  
+  SnellはCrowleyの大著『法の書』や儀式魔術の体系を肯定的に評価しつつも、その後継者たちが形式に囚われたことで硬直化した点を批判している。
+
+- **Spareへの評価**  
+  一方でSpareは、Snellにとって自由で創造的な魔術の象徴であり、内面的な想像力と欲望の活性化を通じて、儀式を超えた魔術の可能性を示した人物として高く評価されている。
+
+**実践における調和**
+
+Snellは自身の実践の中で、Crowleyから得た構造とSpareから得た創造性の両方を融合している。その意味で彼は「折衷的魔術師（eclectic magician）」の先駆けといえる。
+
+> 「私は両者を選ばなかった。私はどちらからも学んだ。」（Snellの回想より）
+
+このように、SnellはSpareとCrowleyを共に称揚し、現代魔術における二つの源流の統合を図った稀有な人物である。
+
+---
+
 ### 🧙‍♂️ Ivy Corvus（アイヴィ・コーヴァス）
 
 <div style="display: flex; gap: 10px;">

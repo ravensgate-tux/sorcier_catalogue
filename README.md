@@ -98,7 +98,7 @@ Lionel Snell（別名：Ramsey Dukes）は、1970年代から活躍するイギ�
 数理哲学や科学的懐疑主義に根ざした思考を背景に、魔術と現代思潮の架け橋となる数多くの著作を残している。代表作には：
 
 - [『Exploring Spare’s Magic』](https://pdfcoffee.com/ramsey-dukes-spare-partspdf-pdf-free.html)
-- [『Spare Parts』]](https://pdfcoffee.com/ramsey-dukes-spare-partspdf-pdf-free.html)
+- [『Spare Parts』](https://pdfcoffee.com/ramsey-dukes-spare-partspdf-pdf-free.html)
 - [『Spare』](https://pdfcoffee.com/ramsey-dukes-spare-partspdf-pdf-free.html)
   
 など、オースティン・オスマン・スペアに関する文書が多くあり、これらはケイオスマジック実践者の間で高く評価されている。

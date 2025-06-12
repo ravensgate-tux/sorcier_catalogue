@@ -91,11 +91,17 @@ YouTube ⏩ [Alan Moore on Austin Osman Spare](https://www.youtube.com/watch?v=s
 ### 著者紹介：Lionel Snell（ライオネル・スネル）
 
 Lionel Snell（別名：Ramsey Dukes）は、1970年代から活躍するイギリスの魔術思想家・著述家であり、**ケイオスマジック運動の草創期に理論的基盤を与えた人物のひとり**。  
+イギリスの魔術理論家。
+1970年代以降、「Ramsey Dukes」名義で執筆を行い、オースティン・スペアとアレイスター・クロウリーの双方に敬意を表しながら、現代魔術の理論的枠組みを構築してきた人物。
+代表作『SSOTBME』『Words Made Flesh』などは、ケイオスマジックの黎明期において哲学的基盤を与える重要書とされる。
+そのユーモアと批評精神に富んだ文体は、魔術を思索と実践の両面から探究する多くの読者に影響を与えている。
 数理哲学や科学的懐疑主義に根ざした思考を背景に、魔術と現代思潮の架け橋となる数多くの著作を残している。代表作には：
 
-- [『Exploring Spare’s Magic』](https://pdfcoffee.com/ramsey-dukes-lionel-snell-exploring-spares-magic-pdf-free.html)
+- 『Exploring Spare’s Magic』
+- 『Spare Parts』
+- 『Spare』
 
-というオースティン・オスマン・スペアに関する文書があり、これらはケイオスマジック実践者の間で高く評価されている。
+など、オースティン・オスマン・スペアに関する文書が多くあり、これらはケイオスマジック実践者の間で高く評価されている。
 
 **SpareとCrowleyについての見解（『Exploring Spare』より）**
 

@@ -109,7 +109,7 @@ Lionel Snell（別名：Ramsey Dukes）は、1970年代から活躍するイギ�
 - 原文👉 [『Spare Parts』](https://pdfcoffee.com/ramsey-dukes-spare-partspdf-pdf-free.html)
 - 原文👉 [『Spare』](https://pdfcoffee.com/ramsey-dukes-spare-partspdf-pdf-free.html)
   
-など、オースティン・オスマン・スペアに関する文書が多くあり、これらはケイオスマジック実践者の間で高く評価されている。
+など、**オースティン・オスマン・スペア**に関する文書が多くあり、これらはケイオスマジック実践者の間で高く評価されている。
 
 **SpareとCrowleyについての見解（『Exploring Spare』より）**
 
@@ -127,7 +127,7 @@ Snellにとってこの両者は「どちらか一方に傾倒すれば盲点が
 
 **Lionel SnellとSpare & Crowleyの関係**
 
-Lionel Snell（別名Ramsey Dukes）は、オースティン・オスマン・スペア（Spare）とアレイスター・クロウリー（Crowley）という、一見相反する魔術的アプローチを取った2人の思想家の両方に深い敬意を示している。
+Lionel Snell（別名Ramsey Dukes）は、**オースティン・オスマン・スペア**（Spare）と**アレイスター・クロウリー**（Crowley）という、一見相反する魔術的アプローチを取った2人の思想家の両方に深い敬意を示している。
 
 **Snellの視点の要点**
 
@@ -135,7 +135,7 @@ Lionel Snell（別名Ramsey Dukes）は、オースティン・オスマン・�
   Snellは、CrowleyとSpareを対立的な存在としてではなく、魔術の2つの異なる方向性を代表するものとして捉えている。Crowleyは「制度化された儀式と神智学的枠組み」を重視し、Spareは「個人の無意識と芸術的直観」に基づく魔術を体現している。
 
 - **Crowleyへの評価**  
-  SnellはCrowleyの大著『法の書』や儀式魔術の体系を肯定的に評価しつつも、その後継者たちが形式に囚われたことで硬直化した点を批判している。
+  SnellはCrowleyの大著『**法の書**』や儀式魔術の体系を肯定的に評価しつつも、その後継者たちが形式に囚われたことで硬直化した点を批判している。
 
 - **Spareへの評価**  
   一方でSpareは、Snellにとって自由で創造的な魔術の象徴であり、内面的な想像力と欲望の活性化を通じて、儀式を超えた魔術の可能性を示した人物として高く評価されている。

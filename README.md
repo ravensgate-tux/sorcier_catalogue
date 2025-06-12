@@ -477,6 +477,14 @@ Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndc
 >ここでケネス・グラントはタイプミスをしており、「Genii of the Brazen Missel」は、「Genii of the Brazen Vessel（青銅の壺の精霊）」の誤植・変種である可能性が高い。
 >これはソロモン王が精霊を壺に封じた伝承（ゴエティア）を指しており、スペアはこれを自身の「性的ノーシス儀式」の文脈で再解釈している。
 
+>**参考：ソロモン王が「精霊（Genii）」を青銅の器に封じた伝説**
+>これは実際に『ゴエティア（The Lesser Key of Solomon）』に記述されている伝承に近い内容で、ソロモン王が72柱の精霊を真鍮や青銅の器に封じ込め、それを封印したという物語である。
+>これがスペアの描写との類似が見られる。
+>- 青銅の壺（Brazen Vessel）
+>- 精霊（GeniiまたはSpirits）
+>- 封印された言葉（sigilおよびdesireのformula）
+>- 地中への埋葬と再びの取り出し（disinter and rebury）
+
 ### AOS03
 
 #### 🃏 Austin Osman Spare の 1906 年タロットデッキ（『Lost Envoy』）概要

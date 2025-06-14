@@ -157,7 +157,7 @@ Snellは自身の実践の中で、Crowleyから得た構造とSpareから得た
 </div>
 <br>
 
-#### Virtual Reality, Cybermagick, and the Future of Chaos  
+### Virtual Reality, Cybermagick, and the Future of Chaos  
 **By Lionel Snell**
 
 #### 概要（要約）

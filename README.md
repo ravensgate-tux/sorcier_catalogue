@@ -965,6 +965,8 @@ Image credit: Julian Vayne & Steve Dee, Chaos Craft (2018). Used here for educat
  
 ---
 
+## WORK01
+
 ## 🧙 内的ワーク
 
 <div align="left">

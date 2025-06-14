@@ -182,10 +182,11 @@ Snellは、魔術の未来像として「サイバーマジック」を提唱し
 > — Lionel Snell
 
 <div align="left">
-<img src="this_is_magic.png" width="300">
+<img src="this_is_magic.png" width="500">
 </div>
 <br>
 
+>※本記事は、Lionel Snellによる論考「Virtual Reality, Cybermagick, and the Future of Chaos」（This is Chaos, 2025年収録）の内容を参考に、主要な論点を個人の読書メモとして要約・再構成したものです。
 ---
 
 ### 🧙‍♂️ Ivy Corvus（アイヴィ・コーヴァス）

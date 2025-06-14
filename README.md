@@ -152,7 +152,7 @@ Snellは自身の実践の中で、Crowleyから得た構造とSpareから得た
 ## LS02 
 
 <div style="display: flex; gap: 10px;">
-  <img src="Lionel_Snell.jpg" width="200">
+  <img src="lionel_snell.jpg" width="200">
   <img src="thisischaos.jpg" width="100">
 </div>
 <br>

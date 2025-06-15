@@ -240,7 +240,7 @@ Snellは、魔術の未来像として「サイバーマジック」を提唱し
 ### 🧙‍♀️Jaq Hawkins（ジャック・ホーキンズ）
 
 <div style="display: flex; gap: 10px;">
-  <img src="jaq_hawkins.jpg" width="200">
+  <img src="jaq_hawkins.jpeg" width="200">
   <img src="thisischaos.jpg" width="100">
 </div>
 <br>

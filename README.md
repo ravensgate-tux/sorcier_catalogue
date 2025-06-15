@@ -237,6 +237,28 @@ Snellは、魔術の未来像として「サイバーマジック」を提唱し
 
 ---
 
+### 🧙‍♀️Jaq Hawkins（ジャック・ホーキンズ）
+
+<div style="display: flex; gap: 10px;">
+  <img src="jaq_hawkins.jpg" width="200">
+  <img src="thisischaos.jpg" width="100">
+</div>
+<br>
+
+(画像出典：Official Jaq Hawkins Website)
+
+職業：オカルティスト、著述家、インディー映画製作者
+魔術的スタンス：ケイオスマジック／ドライマジック（精霊魔術）／自然魔術の融合
+
+Jaq Hawkins は 1990年代から Chaos Magic 系の著述家として知られ、特に「精霊（spirit）」とのワークを中心に据えたスタイルを展開している。代表作『Understanding Chaos Magic』『The Spirits of Spellcraft』などでは、ケイオスマジックの柔軟性と自然魔術の親和性を架橋し、「Dryad（樹霊）」との交流や環境的魔術実践に言及している。
+
+スペアやキャロルの影響は受けつつも、彼女独自の霊的存在との関係性に軸足を置いており、伝統的精霊観とケイオス的アプローチの折衷点を模索している。魔術思想だけでなく、ローファンタジー系映画やドキュメンタリーも手がけるマルチジャンル作家でもある。
+2025年の『This is Chaos』では、タロットカードを従来のシジル（印）に代わる装置として用いる手法を紹介し、カードの象徴力を通じた願望顕現の技法を切り開いた。
+
+[Official Jaq Hawkins Website](http://jaqdhawkins.com/)
+
+---
+
 ### 🧙‍♂️ Ivy Corvus（アイヴィ・コーヴァス）
 
 <div style="display: flex; gap: 10px;">

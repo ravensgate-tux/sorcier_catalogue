@@ -48,8 +48,9 @@ YouTube ⏩ [Alan Moore on Austin Osman Spare](https://www.youtube.com/watch?v=s
 
 ### 🧙‍♂️ Grant Morrison（グラント・モリスン　1960年1月31日 - ）  
 
-<div align="left">
- <img src="grant_morrison.png" width="200">
+<div style="display: flex; gap: 10px;">
+ <img src="grant_morrison.png" width="200">  
+ <img src="invisibles-1.jpg" width="100">
 </div>
 <br>
 

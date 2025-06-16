@@ -942,7 +942,7 @@ YouTube上のアラン・ムーアによるオースティン・スペア紹介�
 > _“He says he's nearly finished a Book of the Law for Steffi.”_
 
 **注釈**  
-次に「法の書」が出てk流のは、この文では所有格は使われていないが、文脈としてこの「Book of the Law」は **Steffi（グラント夫人）に渡すための**と記されている。  
+次に「法の書」という言葉が出てくるのはここである。この文では所有格は使われていないが、文脈としてこの「Book of the Law」は **Steffi（グラント夫人）に渡すための**と記されている。  
 Steffi Grantはスペアの絵画作品を評価していた人物であり、**この章の記述も絵画に関する部分である**ことから、ここで言う「nearly finished」とは先の「**Dedi's illustrated Book of the Law**」という絵画作品が完成に近づいていると考えるのが自然である。
 
 **Page 74**

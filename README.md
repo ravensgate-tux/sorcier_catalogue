@@ -363,7 +363,7 @@ Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndc
 ちなみに、メールでJulian Vayneに問い合わせて頂いた方によれば、ヘルメティックカバラーを学んでいる生徒にはアラン・ムーアの『**プロメテア**』をテキストとして読ませているそうである。（2025/06/12）
 
 <div align="left">
-  <img src="chaos-protocols.png" width="100">
+  <img src="thisischaos.jpg" width="100">
 </div>
 <br>
 【This is CHAOS感想】Julian Vayne (5章)  「Chemognosis Redux」

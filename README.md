@@ -379,7 +379,7 @@ Take this contemporary example from the FAQ on the website of the Servants of th
 
 <div style="display: flex; gap: 10px;">
  <img src="Jason_Miller.jpeg" width="200">  
- <img src="protection_reversal.jpg" width="100">
+ <img src="protection_reversal.jpg" width="200">
 </div>
 <br>
 

@@ -924,7 +924,7 @@ YouTube上のアラン・ムーアによるオースティン・スペア紹介�
 **『Zos Speaks!』に登場する「法の書」**
 
 ケネス・グラントの『Zos Speaks!』には用語集以外の箇所に特に脈絡なく「法の書」という言葉が下記のように、3箇所出てくる。
-私たちは「法の書」と聞くとクロウリーの「法の書（The Book of Law）」を思い浮かべがちであるが、これはどうやら『Book of the Law』という絵画作品のようである。
+私たちは「法の書」と聞くとクロウリーの「法の書（The Book of Law）」を思い浮かべがちであるが、これはどうやら『Book of the Law』という絵画作品（Dedi’s illustrated Book of the Law）のようである。
 
 <div align="left">
  <img src="Zos-Speaks-Book-of-Law.png" width="400">
@@ -936,7 +936,7 @@ YouTube上のアラン・ムーアによるオースティン・スペア紹介�
 
 **注釈**  
 この一文の核心は **「Dedi’s」** という所有格にある。つまりここで言う「Book of the Law」は、**クロウリーの『法の書』ではなく、「Dedi（デディ）」という人物が制作中のアート作品**を意味している。  
-文脈上、「ベニヤ板や紙を買う」という行動は印刷や製本ではなく、**画材の調達**であることを示しており、さらに「illustrated」という語も、**文書ではなく視覚芸術＝絵画**を連想させる。したがって、ここでまず登場するのが、Dediによるビジュアル作品＝“**Dedi’s Book of the Law**”である。
+文脈上、「ベニヤ板や紙を買う」という行動は印刷や製本ではなく、**画材の調達**であることを示しており、さらに「illustrated」という語も、**文書ではなく視覚芸術＝絵画**を連想させる。したがって、ここでまず登場する言葉が、Dediによるビジュアル作品＝“**Dedi’s illustrated Book of the Law**”である。
 
 **Page 54**
 > _“He says he's nearly finished a Book of the Law for Steffi.”_

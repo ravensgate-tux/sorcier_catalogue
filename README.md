@@ -50,7 +50,7 @@ YouTube ⏩ [Alan Moore on Austin Osman Spare](https://www.youtube.com/watch?v=s
 
 <div style="display: flex; gap: 10px;">
  <img src="grant_morrison.png" width="200">  
- <img src="invisibles-1.jpg" width="100">
+ <img src="invisibles-1.jpg" width="130">
 </div>
 <br>
 

@@ -362,6 +362,17 @@ Ray Sherwinによる音声詩作品『The Singing Tadpole』は、上記**Badndc
 明確な発言はないが、柔軟性と健康志向、関係性を重視するスタンスは、ゴードン・ホワイトと近く、結果偏重の古いケイオスマジックへの批判とも共鳴している。
 ちなみに、メールでJulian Vayneに問い合わせて頂いた方によれば、ヘルメティックカバラーを学んでいる生徒にはアラン・ムーアの『**プロメテア**』をテキストとして読ませているそうである。（2025/06/12）
 
+<div align="left">
+  <img src="chaos-protocols.png" width="100">
+</div>
+<br>
+【This is CHAOS感想】Julian Vayne (5章)  「Chemognosis Redux」
+
+ジュリアン・ヴェインがThis is Chaos誌に寄せた論考は、合法・非合法を問わず薬物が魔術に与える影響を扱っている。グノーシスの獲得手段としての薬物使用を、伝統魔術との関係から再考し、現代のサイケデリック・ルネサンスに接続しようとする内容である。
+合法・非合法の区別なく紹介されているため、内容をそのまま実践することは現実的には難しい点にも注意が必要である。
+魔術団体やスクールによって薬物に対する見解はさまざまだが、本文中にはW.E.バトラー（SOL創設者）の薬物禁止の立場も引用されていたため、参考までに原文を掲載しておく。
+Take this contemporary example from the FAQ on the website of the Servants of the Light (SOL), a contemporary magical order founded by William E. Butler (1898-19 78): "Drugs and magic do not mix, no matter what the experimentalists say! We regard the taking of illegal drugs or any other psychotropic or chemical substance for 'recreation' as dangerous in the extreme, and combined with occult training, this is even more applicable."
+
 ---
 
 ### 🧙‍♂️ Jason Miller（ジェイソン・ミラー）

@@ -1068,7 +1068,7 @@ SOLロゴ画像出典：[Wikimedia Commons - Servants of the Light](https://comm
 ## 🧙 呪術プロトコル
 
 <div style="display: flex; gap: 10px;">
- <img src="Ganesha-20250524.jpg" width="400">
+ <img src="Ganesha-20250524.jpg" width="200">
  <img src="taz-book.jpg" width="210">
 </div>
 <br>

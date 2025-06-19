@@ -1068,11 +1068,10 @@ SOLロゴ画像出典：[Wikimedia Commons - Servants of the Light](https://comm
 ## 🧙 呪術プロトコル
 
 <div style="display: flex; gap: 10px;">
- <img src="Ganesha-20250524.jpg" width="200">
+ <img src="Ganesha-20250524.jpg" width="180">
  <img src="taz-book.jpg" width="210">
 </div>
 <br>
-
 
 >魔術師に限らず、TAZ（Temporary Autonomous Zone）という概念を意識している人と、そうでない人がいる気がする。
 >我々は一人では生きていけない。旅の途中で、誰かのものを一時的に借りることもある。まあ、人生全体が「旅」とも言えるかもしれない。
@@ -1080,6 +1079,8 @@ SOLロゴ画像出典：[Wikimedia Commons - Servants of the Light](https://comm
 >特に、ケイオスマジック的なワークでは、異なる文化や体系から術式・象徴・神格を「借りる」ことが発生しがちだ。
 >だからこそ、TAZの精神（一時的に開かれた自由な空間での敬意ある借用と返却）が鍵になると僕は思う。
 これが僕の理解するTAZの本質であり、魔術における「共存的な借用」の方法論である。
+
+<br>
 
 - [🌀 Transitus Fluvii（川を渡る者）を使用した、シジル生成（試作版）](https://github.com/ravensgate-tux/passing_river/blob/main/README.md)
 - [🐘 ガネーシャ神殿での日拝](https://github.com/ravensgate-tux/ganesha_morning/blob/main/README.md)

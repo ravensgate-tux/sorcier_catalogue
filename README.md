@@ -636,6 +636,19 @@ Take this contemporary example from the FAQ on the website of the Servants of th
 >ここでケネス・グラントはタイプミスをしており、「Genii of the Brazen Missel」は、「Genii of the Brazen Vessel（青銅の壺の精霊）」の誤植・変種である可能性が高い。
 >これはソロモン王が精霊を壺に封じた伝承（ゴエティア）を指しており、スペアはこれを自身の「性的ノーシス儀式」の文脈で再解釈している。
 
+**ケネス・グラントはタイプミスをしている 「Genii of the Brazen Missel」**
+
+<div align="left">
+ <img src="zos-speaks-1.png" width="400">  
+</div>
+
+**フィル・ベーカーのバージョン「Genii of the Brazen Vessel」**
+
+<div align="left">
+  <img src="spare-revised-1.png" width="400">
+</div>
+<br>
+
 >**参考：ソロモン王が「精霊（Genii）」を青銅の器に封じた伝説**
 >これは実際に『ゴエティア（The Lesser Key of Solomon）』に記述されている伝承に近い内容で、ソロモン王が72柱の精霊を真鍮や青銅の器に封じ込め、それを封印したという物語である。
 >これがスペアの描写との類似が見られる。

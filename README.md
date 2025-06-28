@@ -1057,7 +1057,7 @@ Steffi Grantはスペアの絵画作品を評価していた人物であり、**
 
 
 <div align="left">
- <img src="Prime-Chaos.jpeg" width="400">
+ <img src="Prime-Chaos.jpeg" width="200">
 </div>
 <br>
 

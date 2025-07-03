@@ -1636,7 +1636,7 @@ Steffi Grantはスペアの絵画作品を評価していた人物であり、**
 <br>
 
 <div align="center">
- <img src="misa.png" width="400">
+ <img src="misa.png" width="700">
 </div>
 <br>
 

@@ -1635,6 +1635,11 @@ Steffi Grantはスペアの絵画作品を評価していた人物であり、**
 
 <br>
 
+<div align="center">
+ <img src="misa.png" width="400">
+</div>
+<br>
+
 ---
 
 #### 4. 🐝 Servants of the Light（SOL）関連 <br>

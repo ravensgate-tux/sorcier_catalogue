@@ -1640,6 +1640,15 @@ Steffi Grantはスペアの絵画作品を評価していた人物であり、**
 </div>
 <br>
 
+### ERIS01
+
+<div align="left">
+ <img src="hekate-eris.jpg" width="300">
+</div>
+<br>
+
+- [エリス神召喚儀式](hekate_eris_ritual.md)
+
 ---
 
 #### 4. 🐝 Servants of the Light（SOL）関連 <br>

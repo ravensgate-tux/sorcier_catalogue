@@ -85,3 +85,10 @@
 *(Clap once. Extinguish incense or oil. Let the candles burn or gently dim.)*
 
 **RITUAL COMPLETE.**
+
+---
+
+## 📋 License
+
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。

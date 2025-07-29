@@ -557,7 +557,7 @@ Take this contemporary example from the FAQ on the website of the Servants of th
 - 1️⃣『地上の地獄』– 絵と詩：alphabet (0)
 - 2️⃣『半獣神たちの書』– 絵のみ（スペアの文なし）
 - 3️⃣『快楽の書』– 魔術論：alphabet (4)、sacred alphabet (2)
-- 4️⃣『生活の集中』– 詩：alphabet (1)
+- 4️⃣『生命の焦点』– 詩：alphabet (1)
 - 5️⃣『ゾスの呪詛』– 自動書記による詩：Alphabetic (1)、Alphabet (1)
   
 #### 🐌論理的な説明文があるのは2️⃣のみで、あとは絵だけか詩作品<br>

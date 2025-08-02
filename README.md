@@ -542,7 +542,7 @@ Take this contemporary example from the FAQ on the website of the Servants of th
 #### 1. **🎨 オースティン・オスマン・スペア関連**<br>
 
 <div align="left">
- <img src="spare2.jpg" width="300">
+ <img src="spare3.png" width="300">
 </div>
 <br>
 

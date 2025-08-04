@@ -1747,6 +1747,7 @@ Image credit: Julian Vayne & Steve Dee, Chaos Craft (2018). Used here for educat
 
 ## WORK01
 
+- 🧠 [まるで別物。二つのスペア哲学？──AとBに分かれる魔術師の肖像（英語論文）](https://github.com/ravensgate-tux/spareA-spareB)
 - 💻 [Witchcraft API v0.1（βテスト中）](https://github.com/ravensgate-tux/witchcraft_api_v01/blob/main/README.md)
 
 <div align="lefy">

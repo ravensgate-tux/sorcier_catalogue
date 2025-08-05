@@ -1058,7 +1058,6 @@ Steffi Grantはスペアの絵画作品を評価していた人物であり、**
 <div align="center">
  <img src="Phil_Hine.jpg" width="300">
 </div>
-<br>
 
 - 🦑　[フィル・ハイン著『現代シャーマニズムの技法 第1巻』への注釈Zine](https://github.com/ravensgate-tux/hine_modern_shamanism/blob/main/README.md)
 - 🦑　[『喚起魔術の技法──フィル・ハインによる魔術実践と存在論の試み』の翻訳＋注釈Zine](https://github.com/ravensgate-tux/hine_evocation/blob/main/README.md)

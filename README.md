@@ -1640,13 +1640,6 @@ Steffi Grantはスペアの絵画作品を評価していた人物であり、**
 
 ディスコーディアニズムは、現代魔術におけるユニークなアプローチであり、ユーモアと混沌を通じて個人と社会の変容を目指す哲学である。
 
-<br>
-
-<div align="center">
- <img src="misa.png" width="700">
-</div>
-<br>
-
 ### ERIS01
 
 <div align="left">

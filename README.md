@@ -1705,7 +1705,7 @@ SOLロゴ画像出典：[Wikimedia Commons - Servants of the Light](https://comm
 - [🔥 ベルテイン／5月の祭の祝祭プロトコル](https://github.com/ravensgate-tux/beltaine_ritual/blob/main/README.md)
 - [🔥 夏至の祝祭儀式の祝祭プロトコル](https://github.com/ravensgate-tux/summer_solstice/blob/main/README.md)
 - [🔥 カタツムリの祝祭（4月22日・アースデイ）](https://github.com/ravensgate-tux/snailmas/blob/main/README.md)
-- [🔬 本棚神殿の作り方](https://github.com/ravensgate-tux/bookshelf-temple/blob/main/README.md)
+- [🔬 本棚神殿の作り方 v.01 （暫定版）](https://github.com/ravensgate-tux/bookshelf-temple/blob/main/README.md)
 
 <div align="center">
  <img src="wheel-of-the-year.jpeg" width="400">
